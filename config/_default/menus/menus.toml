@@ -1,7 +1,7 @@
 [[navbar]]
   identifier = "roadmap"
   name = "Роадмап"
-  url = "/roadmap/"
+  url = "https://zhukovsd.github.io/java-backend-learning-course/"
   weight = 1
 [[navbar]]
   identifier = "articles"
