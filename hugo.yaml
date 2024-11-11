@@ -1,8 +1,9 @@
 baseURL : https://zhukovsd.github.io/zhukovsd-website/
 languageCode : en-us
-title : IT Ментор | Сергей Жуков
 theme : hugo-theme-monochrome
 defaultContentLanguage : en
+enableGitInfo : true
 enableEmoji : true
 paginate : 5
-enableGitInfo : true
+
+
