@@ -3,17 +3,20 @@
   name = "Роадмап"
   url = "https://zhukovsd.github.io/java-backend-learning-course/"
   weight = 1
+
 [[navbar]]
   identifier = "posts"
   name = "Статьи"
   url = "/posts/"
   weight = 2
-  [[navbar]]
+
+[[navbar]]
   identifier = "community"
   name = "Сообщество"
   url = "/community/"
   weight = 3
-  [[navbar]]
+
+[[navbar]]
   identifier = "service"
   name = "Услуги"
   url = "/service/"
