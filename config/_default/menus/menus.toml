@@ -1,0 +1,20 @@
+[[navbar]]
+  identifier = "roadmap"
+  name = "Роадмап"
+  url = "/roadmap/"
+  weight = 1
+[[navbar]]
+  identifier = "articles"
+  name = "Статьи"
+  url = "/articles/"
+  weight = 2
+  [[navbar]]
+  identifier = "community"
+  name = "Сообщество"
+  url = "/community/"
+  weight = 3
+  [[navbar]]
+  identifier = "service"
+  name = "Услуги"
+  url = "/service/"
+  weight = 4
