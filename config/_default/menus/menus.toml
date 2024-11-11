@@ -4,9 +4,9 @@
   url = "https://zhukovsd.github.io/java-backend-learning-course/"
   weight = 1
 [[navbar]]
-  identifier = "articles"
+  identifier = "posts"
   name = "Статьи"
-  url = "/articles/"
+  url = "/posts/"
   weight = 2
   [[navbar]]
   identifier = "community"
