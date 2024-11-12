@@ -6,7 +6,7 @@ weight: 0
 
 ###### 🎉 Вторая годовщина роадмапа и сообщества
 
-https://telegra.ph/Vtoraya-godovshchina-soobshchestva---rezultaty-i-plany-11-07
+https://zhukovsd.github.io/zhukovsd-website/posts/vtoraya-godovshchina-soobshchestva---rezultaty-i-plany/
 
 Начиная писать проекты роадмапа, не мечтал о [сообществе](https://t.me/zhukovsd_it_chat) на 1300 человек, 10-20 офферах в месяц и коллекции из 600 реализаций 🥹
 
