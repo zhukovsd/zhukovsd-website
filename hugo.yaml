@@ -2,7 +2,7 @@ baseURL : https://zhukovsd.github.io/zhukovsd-website/
 languageCode : en-us
 theme : hugo-theme-monochrome
 defaultContentLanguage : en
-enableGitInfo : true
+enableGitInfo : false
 enableEmoji : true
 paginate : 5
 
