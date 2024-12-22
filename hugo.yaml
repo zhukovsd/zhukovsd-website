@@ -7,3 +7,5 @@ enableEmoji : true
 paginate : 5
 
 
+taxonomies:
+  tag: tags
