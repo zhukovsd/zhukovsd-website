@@ -1,10 +1,10 @@
-baseURL : https://zhukovsd.github.io/zhukovsd-website/
-languageCode : en-us
-theme : hugo-theme-monochrome
-defaultContentLanguage : en
-enableGitInfo : false
-enableEmoji : true
-paginate : 5
+baseURL: http://localhost:1313
+languageCode: ru-ru
+theme: hugo-theme-monochrome
+defaultContentLanguage: ru
+enableGitInfo: false
+enableEmoji: true
+paginate: 5
 
 params:
   enable_toc: false
