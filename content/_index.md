@@ -1,9 +1,7 @@
 ---
-type: 'balloon'
-balloon_circle: false
-balloon_resources: "/about"
+type: 'blank'
 ---
 
-# Описание страницы и что тут происходит
+# Добро пожаловать
 
-Йоу. Всем привет! Тут будет сайт визитка с последними новостями
+Hello
