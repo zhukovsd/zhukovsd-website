@@ -1,6 +1,6 @@
-+++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Статьи"
-type = "postcard"
-+++
-
+---
+title: 'Статьи'
+aliases: ["posts", "articles", "blog", "showcase", "docs"]
+type: 'list'
+group_by_year: false
+---
