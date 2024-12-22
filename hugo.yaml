@@ -6,8 +6,15 @@ enableGitInfo: false
 enableEmoji: true
 paginate: 5
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   enable_toc: false
+  enable_site_search: true
 
 taxonomies:
   tag: tags
