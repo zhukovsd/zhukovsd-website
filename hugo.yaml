@@ -6,6 +6,8 @@ enableGitInfo : false
 enableEmoji : true
 paginate : 5
 
+params:
+  enable_toc: false
 
 taxonomies:
   tag: tags
