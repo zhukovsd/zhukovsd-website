@@ -1,0 +1,6 @@
+{{ if .Page.Params.tags }}
+{{ range .Page.Params.tags }}
+  <a class="term-item" href="/tags/{{ . | urlize }}">{{ . }}</a>
+{{ end }}
+{{ end }}
+
