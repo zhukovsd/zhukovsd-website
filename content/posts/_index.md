@@ -5,4 +5,4 @@ type: 'list'
 group_by_year: false
 ---
 
-{{< terms-cloud terms="tags"giorder="desc" >}}
+{{< terms-cloud terms="tags" order="desc" >}}
