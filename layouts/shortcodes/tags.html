@@ -1,9 +1,8 @@
 {{ if .Page.Params.tags }}
-<div class="content-margin">
+<div class="content-margin post-tags">
   <span class="link-list-item">Теги:</span>
   {{ range .Page.Params.tags }}
     <a class="term-item" href="/tags/{{ . | urlize }}">{{ . }}</a>
   {{ end }}
 </div>
 {{ end }}
-
