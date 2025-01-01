@@ -1,23 +1,37 @@
 [[navbar]]
-  identifier = "roadmap"
-  name = "Роадмап"
-  url = "https://zhukovsd.github.io/java-backend-learning-course/"
-  weight = 1
-
-[[navbar]]
-  identifier = "posts"
-  name = "Блог"
-  url = "/posts/"
-  weight = 2
-
-[[navbar]]
   identifier = "community"
   name = "Сообщество"
   url = "/community/"
-  weight = 3
+  weight = 1
 
 [[navbar]]
   identifier = "services"
   name = "Услуги"
   url = "/services/"
+  weight = 2
+
+[[navbar]]
+  parent = "services"
+  identifier = "employment-mentorship"
+  name = "Менторство по трудоустройству"
+  url = "/services/employment-mentorship/"
+  weight = 1
+
+[[navbar]]
+  parent = "services"
+  identifier = "consulting"
+  name = "Консультации"
+  url = "/services/consulting/"
+  weight = 2
+
+[[navbar]]
+  identifier = "posts"
+  name = "Блог"
+  url = "/posts/"
+  weight = 3
+
+[[navbar]]
+  identifier = "roadmap"
+  name = "Роадмап"
+  url = "https://zhukovsd.github.io/java-backend-learning-course/"
   weight = 4
