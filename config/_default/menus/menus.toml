@@ -6,7 +6,7 @@
 
 [[navbar]]
   identifier = "posts"
-  name = "Статьи"
+  name = "Блог"
   url = "/posts/"
   weight = 2
 
