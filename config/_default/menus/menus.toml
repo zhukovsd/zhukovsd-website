@@ -17,7 +17,7 @@
   weight = 3
 
 [[navbar]]
-  identifier = "service"
+  identifier = "services"
   name = "Услуги"
-  url = "/service/"
+  url = "/services/"
   weight = 4
