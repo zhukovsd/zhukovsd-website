@@ -1,4 +1,5 @@
 baseURL: http://localhost:1313
+title: "IT Ментор | Сергей Жуков"
 languageCode: ru-ru
 theme: hugo-theme-monochrome
 defaultContentLanguage: ru
