@@ -19,3 +19,7 @@ params:
 
 taxonomies:
   tag: tags
+
+services:
+  googleAnalytics:
+    id: "G-JTLMMEM3HN"
