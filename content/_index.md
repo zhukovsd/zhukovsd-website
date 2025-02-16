@@ -4,49 +4,43 @@ type: 'blank'
 
 # Добро пожаловать
 
-Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов.
+Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов, лидер сообщества начинающих и развивающихся разработчиков.
 
-Миссия нашего сообщества - быть пространством для эффективной учёбы и карьерного роста в сфере бэкенд разработки.
+## Обо мне
 
-## Карта материалов и активностей
+- [Карьера](https://telegra.ph/Hronologiya-moej-karery-05-21)
+- [Резюме](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf) / [LinkedIn](https://www.linkedin.com/in/zhukovsd/)
+- [Услуги](/services) - консультации и менторство по трудоустройству 
 
-### Заинтересованным в IT карьере
+## Блоги
 
-- Мотивация - [истории успеха](https://t.me/zhukovsd_it_chat/56150/56151), лекции о том как эффективно подойти к вопросу учебы ([#1](https://www.youtube.com/live/xCyulM2VHsQ?si=bvCX1bZbKk89qbI0) / [#2](https://www.youtube.com/live/IlrNXhesSVs?si=CcdD2QlCHPH44ECQ)), [подкасты](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbjLwcF9uxbjsdHuMqbvPdp) с трудоустроенными студентами
+- [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) - главная площадка для видеоконтента, выкладываю там [лекции](https://www.youtube.com/playlist?list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA), [подкасты](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbjLwcF9uxbjsdHuMqbvPdp), [live coding](https://www.youtube.com/playlist?list=PLOVOZrcS3XMZ-QJDHowJQ3abxNHoW8pV3) сессии, [ревью проектов](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz)
+- [Telegram](https://t.me/zhukovsd_it_chat) - статьи и новости сообщества и его активностей
 
-### Учащимся - материалы
+## Сообщество
 
-- Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/)
-- [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
-- [Главные статьи и стримы](https://telegra.ph/IT-Mentor--glavnye-stati-i-strimy-12-14) - TODO ссылка должны вести на сайт
-- [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 600+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
-- **[$]** Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
+[Сообщество](/community/) "IT Ментор" - открытое пространство эффективной учёбы и карьерного роста в сфере бэкенд разработки.
 
-### Учащимся - активности
+Пишем проекты, делаем ревью, читаем книги, ищем работу, менторим - [полная карта](/community/#карта-материалов-и-активностей) активностей и материалов.
 
-- [Парное менторство](https://t.me/zhukovsd_it_mentor/109) - развиваем навыки лидерства и менторства через помощь менее опытным участникам сообщества
-- [Групповая работа](https://t.me/zhukovsd_it_mentor/141) над проектами
-- [Книжный клуб](https://t.me/zhukovsd_it_chat/69518/69519) - читаем книги вместе, обсуждаем на созвонах
+## Материалы
 
-### Учащимся - услуги
+### Роадмап
 
-- Ревью ваших проектов
-    - Присылайте проекты в чат для тестирования и ревью активными членами сообщества
-    - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 150+ ревью, [плейлист](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz) избранных ревью
-    - **[$]** Гарантированные ревью менторами сообщества - TODO ссылка
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны - TODO ссылка должна вести на сайт
+[Java роадмап](https://zhukovsd.github.io/java-backend-learning-course/) - открытый и бесплатный образовательный ресурс, который даёт понятный и воспроизводимый путь к уровню знаний технологий, необходимого для работы на позициях Junior/Middle.
 
-### Ищущим работу
+Не февраль 2015 более 390 студентов реализовали 800 проектов, 40 из которых уже трудоустроились с моей помощью.
 
-- Методичка (https://zhukovsd.github.io/java-backend-interview-prep/) для подготовки к собеседованиям на позицию Java Backend. Актуальные вопросы по теории, опыту работы. Лайвкодинг и задачи на подумать.
-- **[$]** [Менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26) - сопровождение до оффера. С мая по ноябрь 2024 включительно получено 110 офферов, медиана - 230к. - TODO ссылка должна вести на сайт
+Вокруг роадмапа растет [коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) реализаций проектов и ревью, [лекций](https://www.youtube.com/playlist?list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA) и [активностей](/community/#учащимся---активности) для студентов.
 
-### Работающим
+У роадмапа есть [Python](https://zhukovsd.github.io/python-backend-learning-course/) адаптация.
 
-- **[$]** [Сопровождение](https://t.me/zhukovsd_it_chat/61971/95211) на испыталке
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - карьерные решения, поиск точек роста - TODO ссылка должна вести на сайт
+### Методичка
 
-### Компаниям/бизнесу
+Для подготовки к собеседованиям на позиции Junior и Middle мы развиваем [методичку](https://zhukovsd.github.io/java-backend-interview-prep/), написанную по коллекции наших собеседований.
 
-- **[$]** Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://t.me/zhukovsd))
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - проектирование, выстраивание процессов - TODO ссылка должна вести на сайт
+Все вопросы и задачи взяты с реальных собеседований, популярность вопросов рассчитывается в % автоматически, чтобы учить только самое актуальное.
+
+- Коллекция [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/)
+- [Лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и [задачи](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/) на подумать
+- [Вопросы](https://zhukovsd.github.io/java-backend-interview-prep/work-experience/) про опыт работы и знакомство с технологиями
