@@ -35,3 +35,9 @@
   name = "Роадмап"
   url = "https://zhukovsd.github.io/java-backend-learning-course/"
   weight = 4
+
+[[navbar]]
+identifier = "manual"
+name = "Методичка"
+url = "https://zhukovsd.github.io/java-backend-interview-prep/"
+weight = 5
