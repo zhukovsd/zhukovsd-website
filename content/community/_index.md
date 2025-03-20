@@ -22,7 +22,7 @@ type: "blank"
 
 - Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/)
 - [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
-- [Главные статьи и стримы](https://telegra.ph/IT-Mentor--glavnye-stati-i-strimy-12-14) - TODO ссылка должны вести на сайт
+- [Главные статьи и стримы](/posts/main-articles-and-streams/)
 - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 600+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
 - **[$]** Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
 
@@ -37,20 +37,20 @@ type: "blank"
 - Ревью ваших проектов
     - Присылайте проекты в чат для тестирования и ревью активными членами сообщества
     - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 150+ ревью, [плейлист](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz) избранных ревью
-    - **[$]** Гарантированные ревью менторами сообщества - TODO ссылка
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны - TODO ссылка должна вести на сайт
+    - **[$]** [Гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms) менторами сообщества
+- **[$]** [Консультации](/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
 
 ### Ищущим работу
 
 - Методичка (https://zhukovsd.github.io/java-backend-interview-prep/) для подготовки к собеседованиям на позицию Java Backend. Актуальные вопросы по теории, опыту работы. Лайвкодинг и задачи на подумать.
-- **[$]** [Менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26) - сопровождение до оффера. С мая по ноябрь 2024 включительно получено 110 офферов, медиана - 230к. - TODO ссылка должна вести на сайт
+- **[$]** [Менторство по трудоустройству](/services/employment-mentorship/) - сопровождение до оффера. С мая по март 2025 включительно получено 139 офферов, медиана - 222к.
 
 ### Работающим
 
 - **[$]** [Сопровождение](https://t.me/zhukovsd_it_chat/61971/95211) на испыталке
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - карьерные решения, поиск точек роста - TODO ссылка должна вести на сайт
+- **[$]** [Консультации](/services/consulting/) - карьерные решения, поиск точек роста
 
 ### Компаниям/бизнесу
 
 - **[$]** Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://t.me/zhukovsd))
-- **[$]** [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - проектирование, выстраивание процессов - TODO ссылка должна вести на сайт
+- **[$]** [Консультации](/services/consulting/) - проектирование, выстраивание процессов
