@@ -16,6 +16,7 @@ outputs:
 params:
   enable_toc: false
   enable_site_search: true
+  footer: test 123
 
 taxonomies:
   tag: tags
