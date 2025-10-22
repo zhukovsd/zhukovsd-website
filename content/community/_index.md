@@ -8,8 +8,8 @@ type: "blank"
 ## Сообщество в числах
 
 - [Чат](https://t.me/zhukovsd_it_chat) на 1500 человек
-- 40 трудоустройств с моей прямой помощью
-- 800 написанных проектов, 344 публичных ревью
+- 81 трудоустройств с моей прямой помощью в период с мая 2024 по октябрь 2025
+- 1200+ написанных проектов, 500+ публичных ревью - [https://zhukovsd.github.io/java-backend-learning-course/finished-projects/](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/)
 - 25 [менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0), групповые активности на 100+ человек в месяц
 
 ## Карта материалов и активностей
