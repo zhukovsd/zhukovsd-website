@@ -88,8 +88,8 @@ toc: true
 
 ## Как начать
 
-- Если есть вопросы - пишите мне - https://t.me/zhukovsd
-- Для начала работы подпишитесь на Boosty на уровень ["Менторство по трудоустройству"](https://boosty.to/zhukovsd/purchase/2727866?ssource=DIRECT&share=subscription_link)
+- Напишите моему ассистенту, чтобы начать процесс онбординга - https://t.me/zhukovsd_assistant
+- Когда все вопросы решены и мы договорились о дате старта, подпишитесь на Boosty на уровень ["Менторство по трудоустройству"](https://boosty.to/zhukovsd/purchase/2727866?ssource=DIRECT&share=subscription_link)
 
 Если у вас есть вопросы по формату услуги, или вы хотите обсудить вашу ситуацию - напишите мне в телеграм [@zhukovsd](https://t.me/zhukovsd) чтобы созвониться на 20-30 минут и обсудить (бесплатно).
 
