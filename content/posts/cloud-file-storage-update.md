@@ -38,7 +38,4 @@ tags: ["Роадмап"]
 
 К REST API [добавлен](https://zhukovsd.github.io/java-backend-learning-course/projects/cloud-file-storage/#swagger) Swagger, с помощью которого необходимо документировать API.
 
-
-[Роадмап](https://zhukovsd.github.io/java-backend-learning-course/) | [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) | [Менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/) | [Консультации](https://zhukovsd.it/services/consulting/)
-
 {{< tags >}}

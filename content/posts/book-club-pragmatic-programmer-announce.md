@@ -37,6 +37,4 @@ tags: ["Книжный клуб", "Сообщество"]
 - [Ум программиста](https://drive.google.com/drive/folders/1ACpMlRXMG998_Bfmn8rvM1ofRoanebY8?usp=drive_link)
 - [Атомные привычки](https://drive.google.com/drive/folders/1aZMBMr7lwYWfKAHVn0iHSF-OWx8-p8v7?usp=drive_link)
 
-[Роадмап](https://zhukovsd.github.io/java-backend-learning-course/) | [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) | [Менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26) | [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11)
-
 {{< tags >}}

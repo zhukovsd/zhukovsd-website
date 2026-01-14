@@ -53,10 +53,4 @@ https://zhukovsd.it/services/employment-mentorship/
 
 - [Стрим](https://www.youtube.com/watch?v=Z_kZYo0TwnQ) с [@decembristit](https://t.me/decembristit) про вкат в IT, накрутку опыта, амбиции и карьерный рост
 
-—
-
-Спасибо всем, кто учится со мной, и тем, кто поддержал и продолжает поддерживать на [Boosty](https://boosty.to/zhukovsd), подписками на [менторство](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-06-08) и покупками [продуктов](https://boosty.to/zhukovsd) и [консультаций](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11).
-
-[Роадмап](https://zhukovsd.github.io/java-backend-learning-course/) | [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) | [Менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26)  | [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11)
-
 {{< tags >}}
