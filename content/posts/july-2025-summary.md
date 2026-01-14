@@ -45,7 +45,9 @@ https://zhukovsd.it/services/employment-mentorship/
 
 [26 ревью](https://t.me/zhukovsd_it_chat/1/241831) (рекорд).
 
-Отдельное спасибо Алексею [@Raketa4000az](https://t.me/Raketa4000az) (17 ревью) и Саше [@sahapwnz](https://t.me/sahapwnz) (3 ревью).
+Отдельное спасибо:
+- Алексею [@Raketa4000az](https://t.me/Raketa4000az) (17 ревью)
+- Саше [@sahapwnz](https://t.me/sahapwnz) (3 ревью)
 
 Благодарность Фёдору [@flosevskiy](https://t.me/flosevskiy), Ивану [@makeitvsolo](https://t.me/makeitvsolo), Владу [@vladusProgramus](https://t.me/vladusProgramus), Камилю [@badrbad](https://t.me/badrbad), Сергею [@ex_cactus](https://t.me/ex_cactus), Евгению [@playahillz](https://t.me/playahillz).
 

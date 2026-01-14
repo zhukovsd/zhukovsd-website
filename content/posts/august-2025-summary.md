@@ -44,7 +44,7 @@ https://zhukovsd.it/services/employment-mentorship/
 
 [24 ревью](https://t.me/zhukovsd_it_chat/1/252634).
 
-Особое спасибо лидерам:
+Особое спасибо:
 - Алексей [@Raketa4000az](https://t.me/Raketa4000az) (10 ревью)
 - Саша [@sahapwnz](https://t.me/sahapwnz) (4 ревью)
 - Марк [@yeahigh](https://t.me/yeahigh) (3 ревью)
