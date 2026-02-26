@@ -1,0 +1,38 @@
+---
+title: "🎥 Коллекция воркшопов"
+date: 2026-02-26
+weight: 2026-02-26
+tags: ["Воркшоп", "Сообщество"]
+---
+
+# Коллекция воркшопов
+
+Список всех воркшопов с кодовой базой
+
+Обновлено 26 февраля 2026.
+
+## 🧩 Практические проекты и материалы
+
+- Minesweeper на паттернах — [Материалы](https://drive.google.com/drive/folders/1xb4gPXJZ6a79N-Rac7bxWnKSbRsKWuyA) | [Код](https://github.com/vasiliy-spb/Minesweeper-with-patterns)
+
+- Декомпозиция в ООП на примере игры "4 в ряд" — [Материалы](https://drive.google.com/drive/folders/1C0ymf0xVmn5WRYj7B7UjbXDdI5EWV5bZ) | [Код](https://github.com/vasiliy-spb/Lesson_1_For_IT_Mentor_Chat)
+
+- Декомпозиция в ООП на примере игры "Змейка" — [Материалы](https://drive.google.com/drive/folders/1InB9vcjl6uDZvk7D2kALz9tBti_ijlq1) | [Код](https://github.com/vasiliy-spb/Lesson_5_For_IT_Mentor_Chat)
+
+- Декомпозиция в ООП на примере игры "Крестики-нолики" — [Материалы](https://drive.google.com/drive/folders/1A2TaemJmebawS96FzVZktZZ8lMJzGnvY) 
+
+- Декомпозиция в ООП на примере игры "Охота на Вумпуса" — [Материалы](https://drive.google.com/drive/folders/1yItV7pwTCP2tHuEmsiiZ7zXrZJtiGIfl) | [Код](https://github.com/vasiliy-spb/Lesson_6_For_IT_Mentor_Chat)
+
+- Декомпозиция в ООП на примере игры "Рулетка" — [Материалы](https://drive.google.com/drive/folders/1q0023kmqIdLt6JUCJGN0-_-EpzgOj5Gj) | [Код](https://github.com/vasiliy-spb/Lesson_3_For_IT_Mentor_Chat)
+
+- Декомпозиция в ООП на примере игры Shut the box — [Материалы](https://drive.google.com/drive/folders/1LOkj-Hvq1pHz2msKUyWRZjbDxo0LyLOy) | [Код](https://github.com/vasiliy-spb/Lesson_8_For_IT_Mentor_Chat)
+
+- Декомпозиция в ООП на примере игры "Сапёр" — [Материалы](https://drive.google.com/drive/folders/1xGqKtmKKKORYykVv85VpRYHbzOQNl-Yy) | [Код](https://github.com/vasiliy-spb/Minesweeper-with-patterns)
+
+- Онлайн-ревью реализации проекта "Виселица" — [Материалы](https://drive.google.com/drive/folders/1zcmN4KiYcYdicbjcGzMOoNkVW3rptHQR) | [Код](https://github.com/RocknRollNotDead/The-Gallow_1)
+
+- ООП дизайн и MVC на примере системы тестирования знаний — [Материалы](https://drive.google.com/drive/folders/1SlXeQMKlruKCPpdf5wwc8l4H8MclkF7k) | [Код](https://github.com/vasiliy-spb/MVC-lesson-for-IT-Mentor-Chat)
+
+
+{{< tags >}}
+
