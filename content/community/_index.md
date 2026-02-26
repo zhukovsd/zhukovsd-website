@@ -23,7 +23,7 @@ type: "blank"
 - Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/)
 - [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
 - [Главные статьи и стримы](/posts/main-articles-and-streams/)
-- [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 600+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
+- [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 1200+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
 - **[$]** Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
 
 ### Учащимся - активности
@@ -36,7 +36,7 @@ type: "blank"
 
 - Ревью ваших проектов
     - Присылайте проекты в чат для тестирования и ревью активными членами сообщества
-    - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 150+ ревью, [плейлист](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz) избранных ревью
+    - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 500+ ревью, [плейлист](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz) избранных ревью
     - **[$]** [Гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms) менторами сообщества
 - **[$]** [Консультации](/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
 
