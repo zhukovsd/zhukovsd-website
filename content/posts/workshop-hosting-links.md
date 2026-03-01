@@ -14,6 +14,7 @@ tags: ["Воркшоп", "Сообщество"]
 ---
 
 - Kotlin в бэкенд разработке — [Запись](https://drive.google.com/drive/folders/1TpqWMk6l-LvMmSnNmjh9XlV9nylYsbb6?hl)	| [Код](https://github.com/ibobrov/jpa-exmp) 
+- Декомпозиция и реализация в ООП стиле консольной игры "Орел и решка" — [Запись](https://drive.google.com/drive/folders/1QfEkw19V8SOAPzdMuO9b526kr72jerUV)	| [Код](https://github.com/Chukcha1337/coinflip_new)
 - Minesweeper на паттернах — [Запись](https://drive.google.com/drive/folders/1xb4gPXJZ6a79N-Rac7bxWnKSbRsKWuyA) | [Код](https://github.com/vasiliy-spb/Minesweeper-with-patterns)
 - Декомпозиция в ООП на примере игры "4 в ряд" — [Запись](https://drive.google.com/drive/folders/1C0ymf0xVmn5WRYj7B7UjbXDdI5EWV5bZ) | [Код](https://github.com/vasiliy-spb/Lesson_1_For_IT_Mentor_Chat)
 - Декомпозиция в ООП на примере игры "Змейка" — [Запись](https://drive.google.com/drive/folders/1InB9vcjl6uDZvk7D2kALz9tBti_ijlq1) | [Код](https://github.com/vasiliy-spb/Lesson_5_For_IT_Mentor_Chat)
