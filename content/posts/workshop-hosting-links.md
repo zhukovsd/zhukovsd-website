@@ -9,9 +9,11 @@ tags: ["Воркшоп", "Сообщество"]
 
 Список всех воркшопов с кодовой базой
 
-Обновлено 26 февраля 2026.
+Обновлено 02 марта 2026.
 
 ## 🧩 Практические проекты и материалы
+
+- Kotlin в бэкенд разработке — [Материалы](https://drive.google.com/drive/folders/1TpqWMk6l-LvMmSnNmjh9XlV9nylYsbb6?hl)	| [Код](https://github.com/ibobrov/jpa-exmp) 
 
 - Minesweeper на паттернах — [Материалы](https://drive.google.com/drive/folders/1xb4gPXJZ6a79N-Rac7bxWnKSbRsKWuyA) | [Код](https://github.com/vasiliy-spb/Minesweeper-with-patterns)
 
