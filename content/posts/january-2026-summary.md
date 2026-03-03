@@ -68,8 +68,4 @@ https://zhukovsd.it/services/employment-mentorship/
 
 [Полная коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 686 ревью доступна на сайте роадмапа.
 
-Спасибо всем, кто учится со мной, и тем, кто поддержал и продолжает поддерживать на [Boosty](https://boosty.to/zhukovsd), подписками на [менторство](https://zhukovsd.it/services/employment-mentorship/), покупками [продуктов](https://boosty.to/zhukovsd) и [консультаций](https://zhukovsd.it/services/consulting/).
-
-[Роадмап](https://zhukovsd.github.io/java-backend-learning-course/) | [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) | [Менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/) | [Консультации](https://zhukovsd.it/services/consulting/)
-
 {{< tags >}}
