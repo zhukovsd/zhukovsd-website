@@ -18,7 +18,9 @@ toc: true
 - Приоритет на участие в [командном проекте](https://zhukovsd.it/posts/team-project-announce/)
 - Возможность заранее обсудить и зафиксировать договоренности на [менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/)
 
-Цена - 2500р/месяц TODO ссылка.
+Цена - 2500р/месяц.
+
+Подписаться - [https://sponsr.ru/checkout/?project=zhukovsd&lid=39726&type=subscribe](https://sponsr.ru/checkout/?project=zhukovsd&lid=39726&type=subscribe).
 
 ## Подробнее про каждый пункт
 
@@ -37,9 +39,9 @@ toc: true
 ## Все эталонные реализации
 
 Ссылки на реализации:
-- Виселица - TODO вставить ссылку
-- Симуляция - TODO вставить ссылку
-- Обмен валют - TODO вставить ссылку
+- [Виселица](https://sponsr.ru/zhukovsd/142067/Rasshirennye_materialy_dlya_proekta_1__Viselica/)
+- [Симуляция](https://sponsr.ru/zhukovsd/142068/Rasshirennye_materialy_dlya_proekta_2__Simulyaciya/)
+- [Обмен валют](https://sponsr.ru/zhukovsd/142069/Rasshirennye_materialy_dlya_proekta_3__Obmen_valut/)
 
 Что входит в каждую эталонную реализацию:
 - Репозиторий с разработкой проекта по шагам (каждый шаг = лекция, tag в репозитории с состоянием проекта на данный шаг)
