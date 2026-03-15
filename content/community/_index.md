@@ -29,11 +29,13 @@ type: "blank"
 ### Учащимся - активности
 
 - [Таблица менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) - получите помощь от опытных членов сообщества - сопровождение работы над проектами, мок собеседования, и многое другое
-- [Групповая работа](https://t.me/zhukovsd_it_mentor/141) над проектами
+- [Командный проект](https://zhukovsd.it/posts/team-project-announce/) сообщества
+- [Групповая работа](https://t.me/+t6-KVhDfA9k2NWRi) над проектами
 - [Книжный клуб](https://t.me/zhukovsd_it_chat/69518/69519) - читаем книги вместе, обсуждаем на созвонах
 
 ### Учащимся - услуги
 
+- **[$]** [Учебная подписка](/services/student-subscription/), объединяющая гарантированные ревью, эталонные реализации
 - Ревью ваших проектов
     - Присылайте проекты в чат для тестирования и ревью активными членами сообщества
     - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 500+ ревью, [плейлист](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz) избранных ревью
