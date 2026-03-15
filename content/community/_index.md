@@ -24,7 +24,7 @@ type: "blank"
 - [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
 - [Главные статьи и стримы](/posts/main-articles-and-streams/)
 - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 1200+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
-- **[$]** Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
+- **[$]** Эталонные реализации на проекты "Виселица", "Симуляция", "Обмен валют" доступны в рамках [учебной подписки](/services/student-subscription/)
 
 ### Учащимся - активности
 
