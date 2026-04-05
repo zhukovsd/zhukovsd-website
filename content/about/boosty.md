@@ -21,23 +21,23 @@ weight: 2
 - [Парное менторство](https://t.me/zhukovsd_it_mentor/109)
 - [Групповая работа](https://t.me/zhukovsd_it_mentor/141) над проектами
 - [Книжный клуб](https://t.me/zhukovsd_it_chat/69518)
-- 💲 [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
+- 💲 [Консультации](https://zhukovsd.it/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
 - 💲 Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
 - 💲 [Гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms/edit?gid=0#gid=0)
 
 ###### Ищущим работу
 
-- 💲 [Менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26) - сопровождение до оффера
+- 💲 [Менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/) - сопровождение до оффера
 
 ###### Работающим
 
 - 💲 [Сопровождение](https://t.me/zhukovsd_it_chat/61971/95211) на испыталке
-- 💲 [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - карьерные решения, поиск 
+- 💲 [Консультации](https://zhukovsd.it/services/consulting) - карьерные решения, поиск 
 
 ###### Компаниям/бизнесу
 
 - 💲 Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://t.me/zhukovsd))
-- 💲 [Консультации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) - проектирование, выстраивание процессов
+- 💲 [Консультации](https://zhukovsd.it/services/consulting) - проектирование, выстраивание процессов
 
 ###### Идеи на будущее
 
