@@ -22,7 +22,7 @@ weight: 2
 - [Групповая работа](https://t.me/zhukovsd_it_mentor/141) над проектами
 - [Книжный клуб](https://t.me/zhukovsd_it_chat/69518)
 - 💲 [Консультации](https://zhukovsd.it/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
-- 💲 Эталонные реализации - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link)
+- 💲 [Учебная подписка](https://zhukovsd.it/services/student-subscription/)
 - 💲 [Гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms/edit?gid=0#gid=0)
 
 ###### Ищущим работу
