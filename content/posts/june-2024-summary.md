@@ -15,7 +15,7 @@ tags: ["Итоги месяца"]
 
 За июнь получено 30 офферов, 9 принято. Позиции - Java Backend, Python Backend / Data Engineering, средняя сумма принятого оффера - 215к.
 
-[Подробнее про менторство](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26)
+[Подробнее про менторство](https://zhukovsd.it/services/employment-mentorship/)
 
 ### Обновление материалов роадмапа
 
