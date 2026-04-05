@@ -15,7 +15,7 @@ tags: ["Итоги месяца"]
 
 - В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) уже 15 менторов, пятеро доступны (Java, Python, .NET)
 - [Новая ветка чата](https://t.me/zhukovsd_it_chat/61971) для обсуждения поиска работы
-- Добавил себя в таблицу менторов для помощи с трудоустройством - [формат, условия](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-02-21)
+- Добавил себя в таблицу менторов для помощи с трудоустройством - [формат, условия](https://zhukovsd.it/services/employment-mentorship/)
 
 ### Проекты студентов
 

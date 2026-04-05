@@ -20,7 +20,7 @@ tags: ["Итоги месяца"]
 
 17 офферов получено, 5 принято. Средняя сумма оффера - 230к, медианная - 235к.
 
-https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26
+https://zhukovsd.it/services/employment-mentorship/
 
 ### Новости сообщества
 
