@@ -14,7 +14,7 @@ https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b
 - Доведение проекта до конца и рефакторинг до качественного уровня
 - Помощь в преодолении трудностей 
 
-Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21
+Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - https://zhukovsd.it/posts/my-first-product-extended-roadmap/
 
 ### Что внутри
 

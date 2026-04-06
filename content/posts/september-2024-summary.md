@@ -16,7 +16,7 @@ tags: ["Итоги месяца"]
 
 Офферов получено - 12, принято - 3. Медиана 210к, средняя 270к.
 
-https://telegra.ph/Mentorstvo-po-trudoustrojstvu-06-08
+https://zhukovsd.it/services/employment-mentorship/
 
 ### Новости сообщества
 

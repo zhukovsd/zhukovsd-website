@@ -15,7 +15,7 @@ tags: ["Итоги месяца"]
 
 21 оффер получен, 3 принято. Позиции - Java Backend, Python Backend. Средняя сумма оффера - 222к, медианная - 226к. 
 
-https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26
+https://zhukovsd.it/services/employment-mentorship/
 
 ### Обновление материалов роадмапа
 

@@ -18,7 +18,7 @@ tags: ["Итоги месяца"]
 Офферов получено - 9, принято 5. Средняя - 216к, медиана 220к.
 Испыталок пройдено (по трудоустройствам за начало осени) - 7.
 
-https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26
+https://zhukovsd.it/services/employment-mentorship/
 
 ### Новости сообщества
 

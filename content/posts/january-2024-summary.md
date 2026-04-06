@@ -14,9 +14,9 @@ tags: ["Итоги месяца"]
 
 ### Новости сообщества
 
-Главная новость - запущено некоммерческое парное менторство ([формат](https://t.me/zhukovsd_it_mentor/109), [как получить максимум пользы](https://telegra.ph/Kak-poluchit-maksimum-ot-uchyoby-s-mentorom-01-21)). Инициативные участники сообщества с моей помощью помогают развиваться желающим. 
+Главная новость - запущено некоммерческое парное менторство ([формат](https://zhukovsd.it/posts/pair-mentorship-announce/), [как получить максимум пользы](https://zhukovsd.it/posts/how-to-gain-maximum-from-mentoship/)). Инициативные участники сообщества с моей помощью помогают развиваться желающим. 
 
-[Таблица с менторами](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68). В данный момент в таблице 14 менторов, из которых 7 доступны принимать новых учеников на Java, Python, C# ([как начать](https://t.me/zhukovsd_it_mentor/109)).
+[Таблица с менторами](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68). В данный момент в таблице 14 менторов, из которых 7 доступны принимать новых учеников на Java, Python, C# ([как начать](https://zhukovsd.it/posts/pair-mentorship-announce/)).
 
 ---
 

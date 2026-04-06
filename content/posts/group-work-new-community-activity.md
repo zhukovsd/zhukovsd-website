@@ -12,7 +12,7 @@ tags: ["Сообщество"]
 - Учебный план - [роадмап](https://zhukovsd.github.io/java-backend-learning-course/)
 - Сообщество - [чат](https://t.me/zhukovsd_it_chat)
 - Опыт командной разработки - [наши командные проекты](https://t.me/zhukovsd_it_mentor/115)
-- Поиск работы - [менторство по трудоустройству](https://telegra.ph/Mentorstvo-po-trudoustrojstvu-06-08)
+- Поиск работы - [менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/)
 
 ### Предпосылки
 

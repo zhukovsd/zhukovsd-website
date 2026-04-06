@@ -16,7 +16,7 @@ tags: ["Итоги месяца"]
 
 Офферов получено - 17, принято 6, Java и Python. Медиана 220к, средняя 214к. Суммарное количество офферов перевалило за 100 (на данный момент - 102).
 
-Обновления условий - https://telegra.ph/Mentorstvo-po-trudoustrojstvu-10-26.
+Обновления условий - https://zhukovsd.it/services/employment-mentorship/.
 
 ### Новости сообщества
 
