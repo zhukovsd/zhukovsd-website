@@ -8,7 +8,6 @@ tags: ["Роадмап", "Расширенные материалы"]
 # 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Виселица](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/)"
 
 Доступно в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/)
-https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link
 
 ### Для кого созданы, и какую проблему решают
 

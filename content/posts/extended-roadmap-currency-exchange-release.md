@@ -7,7 +7,7 @@ tags: ["Роадмап", "Расширенные материалы"]
 
 # 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Обмен валют](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)"
 
-https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b
+Доступно в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/)
 
 ### Для кого созданы материалы и какую проблему решают
 
