@@ -14,7 +14,7 @@ weight: 2023-12-14
 
 ### Тем кто активно учится
 
-- [Этапы развития](https://telegra.ph/EHtapy-razvitiya-nachinayushchego-razrabotchika-i-tipovye-oshibki-01-13) начинающего разработчика и типовые ошибки
+- [Этапы развития](https://zhukovsd.it/posts/junior-developer-growth-stages-and-common-mistakes/) начинающего разработчика и типовые ошибки
 - [Как учить новые технологии: гайд](https://www.youtube.com/live/IlrNXhesSVs)
 - [Что такое пет проекты](https://t.me/zhukovsd_it_mentor/49), зачем они нужны, в чем разница между пет проектами и рабочими проектами
 - [Как эффективно читать книги по разработке](https://t.me/zhukovsd_it_mentor/60)
