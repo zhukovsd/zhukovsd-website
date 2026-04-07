@@ -8,7 +8,7 @@ type: 'blank'
 
 ## Обо мне
 
-- [Карьера](https://telegra.ph/Hronologiya-moej-karery-05-21)
+- [Карьера](/posts/career-chronology/)
 - [Резюме](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf) / [LinkedIn](https://www.linkedin.com/in/zhukovsd/)
 - [Услуги](/services) - консультации и менторство по трудоустройству 
 
