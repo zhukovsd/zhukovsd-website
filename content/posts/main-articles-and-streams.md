@@ -14,6 +14,7 @@ weight: 2023-12-14
 
 ### Тем кто активно учится
 
+- [Журналирование учёбы и работы](https://www.youtube.com/watch?v=YZtIWOyuInc&t) - как получить контроль над прошлым, настоящим и будущим своей карьеры
 - [Этапы развития](https://zhukovsd.it/posts/junior-developer-growth-stages-and-common-mistakes/) начинающего разработчика и типовые ошибки
 - [Как учить новые технологии: гайд](https://www.youtube.com/live/IlrNXhesSVs)
 - [Что такое пет проекты](https://t.me/zhukovsd_it_mentor/49), зачем они нужны, в чем разница между пет проектами и рабочими проектами
