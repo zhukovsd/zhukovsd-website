@@ -32,7 +32,6 @@ tags: ["YouTube"]
 - **Mock собеседование Java Developer - live refactoring** — [YouTube](https://www.youtube.com/watch?v=-ORT94B4XGw&list=PLOVOZrcS3XMZmyYdwBrOQja4KmeIHYf2U) | [VK](https://vkvideo.ru/playlist/-234639373_6/video-234639373_456239072?linked=1)
 - **Mock собеседование Java Developer - самопрезентация, теория, live coding, ООП дизайн** — [YouTube](https://www.youtube.com/watch?v=Zx6gdtp77qc&list=PLOVOZrcS3XMZmyYdwBrOQja4KmeIHYf2U&index=2) | [VK](https://vkvideo.ru/playlist/-234639373_6/video-234639373_456239067?linked=1)
 - **Mock собеседование - System Design** — [YouTube](https://www.youtube.com/watch?v=_1PQ-Nn9s7A&list=PLOVOZrcS3XMZmyYdwBrOQja4KmeIHYf2U&index=3) | [VK](https://vkvideo.ru/playlist/-234639373_6/video-234639373_456239073?linked=1)
-- **Финансовые итоги 2024 и планы на 2025** — [YouTube](https://www.youtube.com/watch?v=mQdpdE6id_Y&list=PLOVOZrcS3XMZmyYdwBrOQja4KmeIHYf2U&index=4) 
 
 ---
 
