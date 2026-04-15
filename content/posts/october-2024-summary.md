@@ -40,7 +40,7 @@ tags: ["Итоги месяца"]
 - Евгений [@solid_jdk](https://t.me/solid_jdk) - 4 ревью
 - Илья [@coderilya](https://t.me/coderilya) - 3 ревью
 
-Спасибо Алексею [@raketa4000az](https://t.me/raketa4000az), Евгению [@solid_jdk](https://t.me/solid_jdk), Илье [@coderilya](https://coderilya), Максиму [@apostol_fet](https://t.me/apostol_fet), Дмитрию [@onkonfeton](https://t.me/onkonfeton), Дмитрию [@DmMaff](https://t.me/DmMaff), Владимиру [@maddeningshadow](https://t.me/maddeningshadow), [@fearrux](https://t.me/fearrux), Владимиру [@krios2146](https://t.me/krios2146), Алексею [@HTSWT](https://t.me/HTSWT), Вадиму [@oneQwerty2](https://t.me/oneQwerty2).
+Спасибо Алексею [@raketa4000az](https://t.me/raketa4000az), Евгению [@solid_jdk](https://t.me/solid_jdk), Илье [@coderilya](https://t.me/coderilya), Максиму [@apostol_fet](https://t.me/apostol_fet), Дмитрию [@onkonfeton](https://t.me/onkonfeton), Дмитрию [@DmMaff](https://t.me/DmMaff), Владимиру [@maddeningshadow](https://t.me/maddeningshadow), [@fearrux](https://t.me/fearrux), Владимиру [@krios2146](https://t.me/krios2146), Алексею [@HTSWT](https://t.me/HTSWT), Вадиму [@oneQwerty2](https://t.me/oneQwerty2).
 
 Напоминаю, что в сообществе доступны [гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms/edit?gid=0#gid=0) от менторов.
 
