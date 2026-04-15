@@ -31,7 +31,7 @@ weight: 2023-12-14
 
 ### Тем кто уже работает
 
-- [Советы](https://t.me/zhukovsd_it_mentor/30) по прохождению испытательного срока
+- [Советы](/posts/probation-period-tips-for-juniors/) по прохождению испытательного срока
 - [Частые проблемы](https://zhukovsd.it/posts/common-problems-on-the-first-job/) на новом месте работы
 - [Прозрачность](https://zhukovsd.it/posts/transparency-as-carreer-growth-tool/) как инструмент карьерного роста
 
