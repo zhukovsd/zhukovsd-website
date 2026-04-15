@@ -48,7 +48,7 @@ tags: ["Итоги месяца"]
 - WeatherViewer ([repo](https://github.com/garaninnv/weather/)) - проект "Погода" от [@garanin_nv](https://t.me/garanin_nv) на Java, [ревью](https://t.me/zhukovsd_it_chat/16351)
 
 - В очереди на видеоревью 4 проекта.
-- В [список реализаций](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/) на сайте курса добавлены все текстовые ревью, они отмечены значком 📝 (на данный момент их 15)
+- В [список реализаций](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) на сайте курса добавлены все текстовые ревью, они отмечены значком 📝 (на данный момент их 15)
 - Набрано целевое количество проектов на видеоревью реализаций проектов #4 (Tennis scoreboard) и #5 (Weather tracker) на Java. У проектов #6 - 1 слот, #7 - 2 слота.
 
 ## Командный проект

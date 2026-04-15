@@ -30,7 +30,7 @@ toc: true
 #### Мой опыт
 
 - Создание образовательного контента - курс по бэкенд разработке, Telegram канал, YouTube
-- Коллекция моих публичных ревью - https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/
+- Коллекция публичных ревью - https://zhukovsd.github.io/java-backend-learning-course/finished-projects/
 
 ## Технические консультации
 
