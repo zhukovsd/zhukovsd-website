@@ -23,7 +23,7 @@ tags: ["Итоги месяца"]
 
 - В [чате моков](https://t.me/+8YGzqvJOndg1Yjky) за август проведено более 90 часов моков. Java + Python
 - Методичка - обработано 25 собесов, популярность [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/) обновлена
-- 109 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/)
+- 109 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/)
 - 15 новых [задач на livecoding](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) с решениями
 
 ### Менторство по трудоустройству

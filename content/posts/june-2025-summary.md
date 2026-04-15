@@ -20,7 +20,7 @@ tags: ["Итоги месяца"]
 
 - В [чате моков](https://t.me/+8YGzqvJOndg1Yjky) за июнь проведено более 100 часов моков. Появились [моки по Python](https://t.me/c/2260709309/14344/14345).
 - Обработано 60 собесов, популярность теоретических вопросов обновлена.
-- 69 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/).
+- 69 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/).
 - 18 новых [задач на livecoding](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) с решениями.
 
 ### Книжный клуб

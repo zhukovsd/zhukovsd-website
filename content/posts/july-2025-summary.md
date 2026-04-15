@@ -24,7 +24,7 @@ tags: ["Итоги месяца"]
 
 - В [чате моков](https://t.me/+8YGzqvJOndg1Yjky) за июль проведено более 120 часов моков. Java + Python
 - Обработано 20 собесов, популярность теоретических вопросов обновлена
-- 58 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/)
+- 58 новых [вопросов на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/)
 - 19 новых [задач на livecoding](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) с решениями
 
 ### Книжный клуб

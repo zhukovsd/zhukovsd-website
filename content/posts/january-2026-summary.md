@@ -38,7 +38,7 @@ tags: ["Итоги месяца"]
 ### Методичка и моки
 
 - В [чате](https://t.me/+8YGzqvJOndg1Yjky) моков за ноябрь проведено более 85 часов моков.
-- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) - обработано 12 собесов, популярность [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/) обновлена, добавлено 11 [задач на лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и 24 [вопроса "на подумать"](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/).
+- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) - обработано 12 собесов, популярность [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/) обновлена, добавлено 11 [задач на лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и 24 [вопроса "на подумать"](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/).
 
 ### Менторство по трудоустройству
 
