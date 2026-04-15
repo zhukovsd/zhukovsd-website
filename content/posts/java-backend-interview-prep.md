@@ -35,7 +35,7 @@ https://zhukovsd.github.io/java-backend-interview-prep/
 - [Технические вопросы](https://zhukovsd.github.io/java-backend-interview-prep/questions/) с % популярности каждого.
 - Ответы на технические вопросы - каждый вопрос по ссылке выше это ссылка на ответ.
 - [Коллекция](https://zhukovsd.github.io/java-backend-interview-prep/work-experience/) вопросов про опыт работы, встречаются на 90% собеседований.
-- [Вопросы на подумать](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/), встречаются на 62% собеседований.
+- [Вопросы на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/), встречаются на 62% собеседований.
 - [Задачи на лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) по Java, SQL, Stream API, рефакторингу с реальных собеседований. Встречаются на 51% собеседований.
 
 ### Немного статистики
@@ -63,7 +63,7 @@ https://zhukovsd.github.io/java-backend-interview-prep/
 1. Идти по темам по порядку, описанному в [списке технических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/).
 2. В рамках каждой темы разбирать вопросы, которые встречаются хотя бы на 5-10% собеседований или чаще. Советую не читать ответы, чтобы их запомнить, а разбираться самостоятельно, ведя свой собственный конспект.
 3. Прийти в [чат](https://t.me/+8YGzqvJOndg1Yjky) сообщества для подготовки по теории и попросить мок собеседование по одной или нескольким темам.
-4. Пройдя все темы, попрактиковаться с [вопросами на подумать](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/) и [лайвкодингом](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/).
+4. Пройдя все темы, попрактиковаться с [вопросами на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/) и [лайвкодингом](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/).
 
 ## Чат для моков по теории
 

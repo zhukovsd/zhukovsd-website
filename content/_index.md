@@ -42,5 +42,5 @@ type: 'blank'
 Все вопросы и задачи взяты с реальных собеседований, популярность вопросов рассчитывается в % автоматически, чтобы учить только самое актуальное.
 
 - Коллекция [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/)
-- [Лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и [задачи](https://zhukovsd.github.io/java-backend-interview-prep/tasks-to-think/) на подумать
+- [Лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и [задачи](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/) на подумать
 - [Вопросы](https://zhukovsd.github.io/java-backend-interview-prep/work-experience/) про опыт работы и знакомство с технологиями
