@@ -5,7 +5,7 @@ weight: 2024-06-24
 tags: ["Роадмап", "Расширенные материалы"]
 ---
 
-# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Виселица](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/)"
+# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Виселица](https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/)"
 
 Доступно в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/).
 
