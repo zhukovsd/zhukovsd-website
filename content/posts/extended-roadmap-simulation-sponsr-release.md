@@ -5,7 +5,7 @@ weight: 2026-03-15
 tags: ["Роадмап", "Расширенные материалы"]
 ---
 
-# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Симуляция](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/)"
+# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Симуляция](https://zhukovsd.github.io/java-backend-learning-course/projects/simulation/)"
 
 Доступно в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/).
 

@@ -5,7 +5,7 @@ weight: 2024-06-25
 tags: ["Роадмап", "Расширенные материалы"]
 ---
 
-# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Обмен валют](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)"
+# 🚀 Релиз материалов расширенной версии роадмапа для проекта "[Обмен валют](https://zhukovsd.github.io/java-backend-learning-course/projects/currency-exchange/)"
 
 Доступно в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/).
 
