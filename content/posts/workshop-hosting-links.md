@@ -9,10 +9,11 @@ tags: ["Воркшоп", "Сообщество"]
 
 Список всех воркшопов с кодовой базой
 
-Обновлено 23 марта 2026.
+Обновлено 20 апреля 2026.
 
 ---
 
+- Использование Claude Code в коммерческих проектах — [Запись](https://drive.google.com/drive/folders/1lVSU7LY7l_mQCPaLmUuxLiBkNm5ZCI5y) | [Код](https://docs.google.com/document/d/1Ufob9EVI_tQuBF-tIu3ZPt6gZK-AZcx0lj05rU5cXVg)
 - Онлайн-ревью проекта Симуляция — [Запись](https://drive.google.com/drive/folders/1oOJwdYE6mAfJfHpzb4wJlpDjHRk4HWaD) | [Код](https://github.com/timk01/Simulation)
 - Review проекта Hangman в процедурном стиле — [Запись](https://drive.google.com/drive/folders/1kMJloirAR7G3KtM_IzD2j7oiv3_BMTIr) | [Код](https://github.com/kimche2/Hangman)
 - Kotlin в бэкенд разработке — [Запись](https://drive.google.com/drive/folders/1TpqWMk6l-LvMmSnNmjh9XlV9nylYsbb6?hl) | [Код](https://github.com/ibobrov/jpa-exmp) 
