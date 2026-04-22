@@ -10,10 +10,11 @@ tags: ["YouTube"]
 
 Список всех видео с [YouTube канала](https://www.youtube.com/@zhukovsd_it_mentor) по плейлистам с перезаливами на [VK Video](https://vkvideo.ru/@zhukovsd_it_mentor) для тех, у кого проблемы с доступом к YouTube.
 
-Обновлено 08 апреля 2026.
+Обновлено 22 апреля 2026.
 
 ## 🎓 Лекции
 
+- **Как найти первую работу программистом в эпоху AI** — [YouTube](https://www.youtube.com/watch?v=RlvEs9huuF8) | [VK](https://vkvideo.ru/video-234639373_456239106)
 - **Журналирование учёбы и работы - как получить контроль над прошлым, настоящим и будущим своей карьеры** — [YouTube](https://www.youtube.com/watch?v=YZtIWOyuInc&t) | [VK](https://vk.com/zhukovsd_it_mentor?z=video-234639373_456239105)
 - **Как учить новые технологии: гайд** — [YouTube](https://www.youtube.com/watch?v=IlrNXhesSVs&list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA) | [VK](https://vkvideo.ru/playlist/-234639373_7/video-234639373_456239071?linked=1)
 - **Декомпозиция задач для начинающих и профессионалов** — [YouTube](https://www.youtube.com/watch?v=3ox5DI_xAog&list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA&index=2) | [VK](https://vkvideo.ru/playlist/-234639373_7/video-234639373_456239079?linked=1)
