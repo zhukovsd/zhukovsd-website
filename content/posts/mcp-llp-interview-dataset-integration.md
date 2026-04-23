@@ -37,11 +37,11 @@ tags: ["Статья", "AI", "Собеседования"]
 
 > Нашёл в базе 66 технических собеседований в Сбер/СберТех/дочках на Java (язык: русский). Ниже — список с датами и ссылками на записи.
 > 
-> • 2024-10-16 — Сбер — https://t.me/c/********/****/****
+> • 2024-10-16 — Сбер — `https://t.me/c/********/****/****`
 > 
-> • 2024-06-20 — Сбер (оффер, 230000) — https://t.me/c/********/****/****
+> • 2024-06-20 — Сбер (оффер, 230000) — `https://t.me/c/********/****/****`
 > 
-> • 2024-05-31 — Сбер (оффер, 250000) — https://t.me/c/********/****/****
+> • 2024-05-31 — Сбер (оффер, 250000) — `https://t.me/c/********/****/****`
 >
 > ...
 
@@ -59,22 +59,22 @@ sequenceDiagram
 
     User->>Bot: /ai технические собесы в сбер на Java
 
-    Note over Bot,LLM: Бот открывает сессию к OpenAI API\nи передаёт в контекст MCP сервер и его tools
+    Note over Bot,LLM: Бот открывает сессию к OpenAI API<br>и передаёт в контекст MCP сервер и его tools
 
     Bot->>LLM: Сообщение пользователя + контекст с MCP tools
 
-    Note over LLM: Модель понимает, что нужно\nнайти собесы по фильтру company_name = "сбер"
+    Note over LLM: Модель понимает, что нужно<br>найти собесы по фильтру company_name = "сбер"
 
-    LLM->>MCP: Вызов MCP tool\nнапример: get_interviews(company_name="сбер", topic="Java")
+    LLM->>MCP: Вызов MCP tool<br>например: get_interviews(company_name="сбер", topic="Java")
 
-    Note over MCP: MCP tools — аналоги REST API эндпоинтов\nдля LLM моделей
+    Note over MCP: MCP tools — аналоги REST API эндпоинтов<br>для LLM моделей
 
-    MCP->>DB: SQL запрос\nSELECT ... FROM interviews\nWHERE company_name = 'сбер'
+    MCP->>DB: SQL запрос<br><br>SELECT ... FROM interviews<br>WHERE company_name = 'сбер'
     DB-->>MCP: Собесы и таймкоды
 
     MCP-->>LLM: JSON с результатами
 
-    Note over LLM: Модель преобразует JSON\nв человекочитаемый ответ
+    Note over LLM: Модель преобразует JSON<br>в человекочитаемый ответ
 
     LLM-->>Bot: Готовый текст ответа
     Bot-->>User: Отправляет ответ в чат
