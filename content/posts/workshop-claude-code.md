@@ -9,7 +9,7 @@ tags: ["Воркшоп", "Сообщество"]
 
 Юра [@yosakohf](https://t.me/yosakohf) провёл лекцию по практике использования Claude Code в коммерческих проектах.
 
-Юра работает Go-бэкендером, также писал на Python и Java.
+Юра работает GoLang бэкендером, также писал на Python и Java.
 
 [Запись воркшопа](https://drive.google.com/drive/folders/1lVSU7LY7l_mQCPaLmUuxLiBkNm5ZCI5y)  
 [Материалы](https://docs.google.com/document/d/1Ufob9EVI_tQuBF-tIu3ZPt6gZK-AZcx0lj05rU5cXVg)
