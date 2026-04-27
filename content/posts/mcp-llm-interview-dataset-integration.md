@@ -173,40 +173,9 @@ tags: ["Статья", "AI", "Собеседования"]
 >
 > ...
 
-Шаги в виде mermaid диаграммы:
+Шаги в виде sequence диаграммы:
 
-```mermaid
-sequenceDiagram
-    autonumber
-
-    actor User as Пользователь
-    participant Bot as Telegram бот (Python)
-    participant LLM as OpenAI API / LLM
-    participant MCP as MCP сервер (Golang)
-    participant DB as PostgreSQL
-
-    User->>Bot: /ai технические собесы в сбер на Java
-
-    Note over Bot,LLM: Бот открывает сессию к OpenAI API<br>и передаёт в контекст MCP сервер и его tools
-
-    Bot->>LLM: Сообщение пользователя + контекст с MCP tools
-
-    Note over LLM: Модель понимает, что нужно<br>найти собесы по фильтру company_name = "сбер"
-
-    LLM->>MCP: Вызов MCP tool<br>например: get_interviews(company_name="сбер", topic="Java")
-
-    Note over MCP: MCP tools — аналоги REST API эндпоинтов<br>для LLM моделей
-
-    MCP->>DB: SQL запрос<br><br>SELECT ... FROM interviews<br>WHERE company_name = 'сбер'
-    DB-->>MCP: Собесы и таймкоды
-
-    MCP-->>LLM: JSON с результатами
-
-    Note over LLM: Модель преобразует JSON<br>в человекочитаемый ответ
-
-    LLM-->>Bot: Готовый текст ответа
-    Bot-->>User: Отправляет ответ в чат
-```
+![Integration sequence diagram](/images/mcp-llm-interview-dataset-integration/integration-sequence-diagram.png)
 
 ## Тегирование
 
