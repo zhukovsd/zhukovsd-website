@@ -67,7 +67,7 @@ weight: 2023-11-30
 - [Статья](https://t.me/zhukovsd_it_mentor/96) про сложности поиска первой работы и накрутка опыта в резюме
 - Годовщина канала, [планы на будущее](https://t.me/zhukovsd_it_mentor/97)
 - [Анонс](https://t.me/zhukovsd_it_mentor/98) личных консультаций
-- [План действий](https://zhukovsd.github.io/java-backend-learning-course/plan.html) для начинающих и [другие обновления](https://t.me/zhukovsd_it_mentor/99) материалов курса
+- [План действий](https://zhukovsd.github.io/java-backend-learning-course/plan) для начинающих и [другие обновления](https://t.me/zhukovsd_it_mentor/99) материалов курса
 
 ### Новое на YouTube
 

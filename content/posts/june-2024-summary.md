@@ -19,8 +19,8 @@ tags: ["Итоги месяца"]
 
 ### Обновление материалов роадмапа
 
-- ТЗ проекта ["планировщик задач"](https://zhukovsd.github.io/java-backend-learning-course/Projects/TaskTracker/) - RabbitMQ заменен на Kafka, так как Kafka более актуальный для резюме навык
-- В ТЗ проекта ["погода"](https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/) добавлен чеклист типовых ошибок, спасибо @hungryman9 за подготовку материалов
+- ТЗ проекта ["планировщик задач"](https://zhukovsd.github.io/java-backend-learning-course/projects/task-tracker/) - RabbitMQ заменен на Kafka, так как Kafka более актуальный для резюме навык
+- В ТЗ проекта ["погода"](https://zhukovsd.github.io/java-backend-learning-course/projects/weather-viewer/) добавлен чеклист типовых ошибок, спасибо @hungryman9 за подготовку материалов
 
 ### Новые лекции
 

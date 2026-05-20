@@ -10,9 +10,9 @@ tags: ["Роадмап"]
 Для первых трёх проектов роадмапа накопилось более чем по 10 ревью (суммарно - видео и текстовых), что позволило сформировать чеклисты самых частых ошибок, идя по которому, студент может сделать самопроверку своего проекта. 
 
 Чеклисты для:
-- [Первого проекта](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/#%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) (виселица)
-- [Второго проекта](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/#%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) (симуляция)  
-- [Третьего проекта](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/#%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) (REST API обменника валют)
+- [Первого проекта](https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/#%d1%87%d0%b5%d0%ba%d0%bb%d0%b8%d1%81%d1%82-%d0%b4%d0%bb%d1%8f-%d1%81%d0%b0%d0%bc%d0%be%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b8) (виселица)
+- [Второго проекта](https://zhukovsd.github.io/java-backend-learning-course/projects/simulation/#%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) (симуляция)  
+- [Третьего проекта](https://zhukovsd.github.io/java-backend-learning-course/projects/currency-exchange/#%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) (REST API обменника валют)
 
 ## Как пользоваться
 

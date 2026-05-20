@@ -43,6 +43,6 @@ tags: ["Итоги месяца"]
 - Илья [@ilyacoder](https://t.me/ilyacoder) - 3 ревью  
 - Иван [@makeitvsolo](https://t.me/makeitvsolo) и Костя [@hungryman9](https://t.me/hungryman9) - по 2 ревью
 
-Для всех ревью в [списке реализаций](https://github.com/zhukovsd/java-backend-learning-course/blob/main/Projects/FinishedProjects/index.md) теперь указан автор.
+Для всех ревью в [списке реализаций](https://github.com/zhukovsd/java-backend-learning-course/blob/main/content/finished-projects/_index.md) теперь указан автор.
 
 {{< tags >}}
