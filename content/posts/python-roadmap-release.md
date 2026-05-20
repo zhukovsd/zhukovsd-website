@@ -26,7 +26,6 @@ tags: ["Роадмап", "Python"]
 
 • Адаптировать ТЗ проектов 6, 7
 • Списки избранных учебных ресурсов к каждой нужной Python технологии
-• Адаптировать [статью](https://zhukovsd.github.io/python-backend-learning-course/Technologies/BuildSystems/) про системы сборки и управления зависимостей
-• Из [списка реализаций](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects/) убрать все проекты, кроме написанных на Python
+• Из [списка реализаций](https://zhukovsd.github.io/python-backend-learning-course/finished-projects/) убрать все проекты, кроме написанных на Python
 
 {{< tags >}}
