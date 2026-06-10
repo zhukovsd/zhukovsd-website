@@ -41,6 +41,4 @@ https://zhukovsd.github.io/golang-backend-learning-course/
 
 Если найдёте ошибки или опечатки в тексте роадмапа, пишите пожалуйста [@zhukovsd_assistant](https://t.me/zhukovsd_assistant) или создавайте Pull Request к [репозиторию](https://github.com/zhukovsd/golang-backend-learning-course).
 
-[Чат сообщества](https://t.me/zhukovsd_it_chat) | [Роадмап](https://zhukovsd.github.io/java-backend-learning-course/) | [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) | [Менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/)
-
 {{< tags >}}
