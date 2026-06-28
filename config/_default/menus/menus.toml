@@ -19,17 +19,24 @@
 
 [[navbar]]
   parent = "services"
+  identifier = "global-remote-employment"
+  name = "Валютные удалёнки"
+  url = "/services/global-remote-employment/"
+  weight = 2
+
+[[navbar]]
+  parent = "services"
   identifier = "student-subscription"
   name = "Учебная подписка"
   url = "/services/student-subscription/"
-  weight = 2
+  weight = 3
 
 [[navbar]]
   parent = "services"
   identifier = "consulting"
   name = "Консультации"
   url = "/services/consulting/"
-  weight = 3
+  weight = 4
 
 [[navbar]]
   identifier = "posts"
