@@ -1,7 +1,7 @@
 ---
 title: "Учебная подписка"
 date: 2026-03-15
-weight: 2
+weight: 3
 toc: true
 ---
 
