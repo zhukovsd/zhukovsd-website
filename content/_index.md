@@ -33,7 +33,7 @@ type: 'blank'
 
 Вокруг роадмапа растет [коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) реализаций проектов и ревью, [лекций](https://www.youtube.com/playlist?list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA) и [активностей](/community/#учащимся---активности) для студентов.
 
-У роадмапа есть [Python](https://zhukovsd.github.io/python-backend-learning-course/) адаптация.
+У роадмапа есть [Python](https://zhukovsd.github.io/python-backend-learning-course/) и [Go](https://zhukovsd.github.io/golang-backend-learning-course/) адаптации.
 
 ### Методичка
 
