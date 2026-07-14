@@ -10,7 +10,7 @@ weight: 2023-12-14
 
 - [Общий план](https://zhukovsd.github.io/java-backend-learning-course/plan/) действий до трудоустройства
 - [Факторы](https://www.youtube.com/live/xCyulM2VHsQ), которые определят ваш успех (или неуспех) в учебе и трудоустройстве, [статья](/posts/crucial-factors-for-success-in-study-and-work/) на эту же тему
-- [Развеиваю](https://t.me/zhukovsd_it_mentor/31) миф о том, что ChatGPT заменит разработчиков
+- [Развеиваю](https://telegram.me/zhukovsd_it_mentor/31) миф о том, что ChatGPT заменит разработчиков
 
 ### Тем кто активно учится
 

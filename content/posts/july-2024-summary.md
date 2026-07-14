@@ -9,7 +9,7 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-Пожелавший остаться анонимным участник сообщества [рассказал](https://t.me/zhukovsd_it_chat/56150/94798) о своём захватывающем пути от начала учёбы до трудоустройства Python разработчиком в возрасте "хорошо за 30".
+Пожелавший остаться анонимным участник сообщества [рассказал](https://telegram.me/zhukovsd_it_chat/56150/94798) о своём захватывающем пути от начала учёбы до трудоустройства Python разработчиком в возрасте "хорошо за 30".
 
 ### Менторство по трудоустройству
 
@@ -33,21 +33,21 @@ https://zhukovsd.it/services/employment-mentorship/
 ### Новости сообщества
 
 - В [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) новый ментор по PHP, всего 4 доступных ментора - NodeJS/Golang, C#, Python, PHP
-- Запущен пилотный поток новой активности - [групповая работа над проектами](https://t.me/zhukovsd_it_mentor/137)
+- Запущен пилотный поток новой активности - [групповая работа над проектами](https://telegram.me/zhukovsd_it_mentor/137)
 - Книжный клуб - читаем про паттерны, тема следующей недели "behavioral patterns - observer, chain of responsibility, template method", [записи](https://drive.google.com/drive/folders/1qT5mbI8OM92O71gESjjKu1zNVrTNUh95?usp=sharing) созвонов
 
 ### Проекты студентов
 
-[50 проектов](https://t.me/zhukovsd_it_chat/1/99294) на Java, Python, Go. Новый рекорд по количеству проектов.
+[50 проектов](https://telegram.me/zhukovsd_it_chat/1/99294) на Java, Python, Go. Новый рекорд по количеству проектов.
 
 ### Ревью проектов
 
-[25 ревью](https://t.me/zhukovsd_it_chat/1/99306). Особое спасибо:
+[25 ревью](https://telegram.me/zhukovsd_it_chat/1/99306). Особое спасибо:
 
-- [Алексей](https://t.me/Raketa4000az) - 13 ревью
-- [Максим](https://t.me/apostol_fet) - 3 ревью
-- [Иван](https://t.me/makeitvsolo) и [@krios2146](https://t.me/krios2146) - 2 ревью
+- [Алексей](https://telegram.me/Raketa4000az) - 13 ревью
+- [Максим](https://telegram.me/apostol_fet) - 3 ревью
+- [Иван](https://telegram.me/makeitvsolo) и [@krios2146](https://telegram.me/krios2146) - 2 ревью
 
-Также спасибо [@tonkoshkur](https://t.me/tonkoshkur), [@izmile](https://t.me/izmile), [@IamNotARapperr](https://t.me/IamNotARapperr), [@MaddeningShadow](https://t.me/MaddeningShadow), [@calmekd](https://t.me/calmekd).
+Также спасибо [@tonkoshkur](https://telegram.me/tonkoshkur), [@izmile](https://telegram.me/izmile), [@IamNotARapperr](https://telegram.me/IamNotARapperr), [@MaddeningShadow](https://telegram.me/MaddeningShadow), [@calmekd](https://telegram.me/calmekd).
 
 {{< tags >}} 

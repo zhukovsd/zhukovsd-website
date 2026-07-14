@@ -7,7 +7,7 @@ tags: ["Воркшоп", "Сообщество"]
 
 # 🎥 Воркшоп по Claude Code
 
-Юра [@yosakohf](https://t.me/yosakohf) провёл лекцию по практике использования Claude Code в коммерческих проектах.
+Юра [@yosakohf](https://telegram.me/yosakohf) провёл лекцию по практике использования Claude Code в коммерческих проектах.
 
 Юра работает GoLang бэкендером, также писал на Python и Java.
 

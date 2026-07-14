@@ -66,4 +66,4 @@ toc: true
 
 —
 
-Если заинтересованы, заполните форму - https://forms.gle/o3LGwExP7tUgWFy39. По вопросам обращайтесь к [@zhukovsd_assistant](https://t.me/zhukovsd_assistant).
+Если заинтересованы, заполните форму - https://forms.gle/o3LGwExP7tUgWFy39. По вопросам обращайтесь к [@zhukovsd_assistant](https://telegram.me/zhukovsd_assistant).

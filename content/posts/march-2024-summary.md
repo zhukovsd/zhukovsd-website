@@ -9,12 +9,12 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-Виктор [@csatom](https://t.me/csatom) нашел первую работу Python Developer'ом (первый трудоустроенный питонист в сообществе 🎉), и поделился подробной хронологией своей учёбы и статистикой поиска работы - [#1](https://t.me/zhukovsd_it_chat/56150/66392), [#2](https://t.me/zhukovsd_it_chat/56150/66393).
+Виктор [@csatom](https://telegram.me/csatom) нашел первую работу Python Developer'ом (первый трудоустроенный питонист в сообществе 🎉), и поделился подробной хронологией своей учёбы и статистикой поиска работы - [#1](https://telegram.me/zhukovsd_it_chat/56150/66392), [#2](https://telegram.me/zhukovsd_it_chat/56150/66393).
 
 ### Новости сообщества
 
-- Сделан [анонс](https://t.me/zhukovsd_it_mentor/115) командного проекта и собрана команда (4 исполнителя + лид). Если будут появляться новые желающие попрактиковать лидерские качества, будем повторять.
-- В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) 15 менторов, пятеро доступны (Java, Python, .NET). Дефицит Java менторов, если хотите поучаствовать, [напишите мне](https://t.me/zhukovsd).
+- Сделан [анонс](https://telegram.me/zhukovsd_it_mentor/115) командного проекта и собрана команда (4 исполнителя + лид). Если будут появляться новые желающие попрактиковать лидерские качества, будем повторять.
+- В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) 15 менторов, пятеро доступны (Java, Python, .NET). Дефицит Java менторов, если хотите поучаствовать, [напишите мне](https://telegram.me/zhukovsd).
 - [Созвон сообщества](https://www.youtube.com/live/WQ-pN867Rvo) про парное менторство - статистика, текущее положение дел, решение типовых проблем студентов, что менторство даёт менторам, планы на будущее.
 
 ### Проекты студентов
@@ -43,7 +43,7 @@ tags: ["Итоги месяца"]
 
 ### Ревью проектов
 
-За ревью спасибо [@krios2146](https://t.me/krios2146), [@happy_shk](https://t.me/happy_shk), [@Raketa4000az](https://t.me/Raketa4000az).
+За ревью спасибо [@krios2146](https://telegram.me/krios2146), [@happy_shk](https://telegram.me/happy_shk), [@Raketa4000az](https://telegram.me/Raketa4000az).
 
 - [hangman](https://github.com/EvgenVoit/hangman) проект Виселица от [EvgenVoit](https://github.com/EvgenVoit) на Java, [ревью](https://gist.github.com/Asenim/2ea031cdcd57ad3e37148f0e94083b8f)
 - [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) проект Обмен Валют от [ArturChegur](https://github.com/ArturChegur) на Java, [ревью](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083)
@@ -52,11 +52,11 @@ tags: ["Итоги месяца"]
 ### Новое на YouTube
 
 - [Подкаст](https://www.youtube.com/watch?v=fybLSMVrrgA) про развитие разработчиков после получения первого оффера - от Junior к Middle
-- [Мок собеседование](https://www.youtube.com/watch?v=-ORT94B4XGw) на позицию Java Developer с [@ilyacoder](https://t.me/ilyacoder), две live refactoring секции на Java Core и Spring
+- [Мок собеседование](https://www.youtube.com/watch?v=-ORT94B4XGw) на позицию Java Developer с [@ilyacoder](https://telegram.me/ilyacoder), две live refactoring секции на Java Core и Spring
 - На канале [DecembristITTV](https://www.youtube.com/@DecembristITTV) вышел [коллаб](https://www.youtube.com/watch?v=HXPb2MbNR1E) со мной про архитектуру - монолиты и микросервисы
 
 ### Личное
 
-До 7 апреля в отпуске в Южной Корее, фотки - [#1](https://t.me/zhukovsd_it_chat/1/67183?single), [#2](https://t.me/zhukovsd_it_chat/1/67850?single), [#3](https://t.me/zhukovsd_it_chat/1/67492?single).
+До 7 апреля в отпуске в Южной Корее, фотки - [#1](https://telegram.me/zhukovsd_it_chat/1/67183?single), [#2](https://telegram.me/zhukovsd_it_chat/1/67850?single), [#3](https://telegram.me/zhukovsd_it_chat/1/67492?single).
 
 {{< tags >}}

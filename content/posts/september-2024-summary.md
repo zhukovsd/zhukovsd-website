@@ -9,8 +9,8 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-- Миша [поделился](https://t.me/zhukovsd_it_chat/56150/112898) историей успешного поиска работы после 6 проектов роадмапа
-- 2 анонимных истории - от одного из [рекордсменов](https://t.me/zhukovsd_it_chat/56150/119653) по скорости работы над проектами (около 7 месяцев от начала работы над роадмапом до трудоустройства) и [история](https://t.me/zhukovsd_it_chat/56150/120295) учебы с последующим поиском работы на российскую компанию, проживая за границей
+- Миша [поделился](https://telegram.me/zhukovsd_it_chat/56150/112898) историей успешного поиска работы после 6 проектов роадмапа
+- 2 анонимных истории - от одного из [рекордсменов](https://telegram.me/zhukovsd_it_chat/56150/119653) по скорости работы над проектами (около 7 месяцев от начала работы над роадмапом до трудоустройства) и [история](https://telegram.me/zhukovsd_it_chat/56150/120295) учебы с последующим поиском работы на российскую компанию, проживая за границей
 
 ### Менторство по трудоустройству
 
@@ -20,30 +20,30 @@ https://zhukovsd.it/services/employment-mentorship/
 
 ### Новости сообщества
 
-- Вчера начался [третий поток](https://t.me/zhukovsd_it_mentor/146) групповой работы над проектами, если кто-то не успел записаться, но хочет присоединиться, пишите Саше @GoPetr
+- Вчера начался [третий поток](https://telegram.me/zhukovsd_it_mentor/146) групповой работы над проектами, если кто-то не успел записаться, но хочет присоединиться, пишите Саше @GoPetr
 - В честь окончания второго потока групповой работы над проектами на эталонные реализации проектов роадмапа действует скидка 50% (до 4 октября) - [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link). Буду практиковать это в конце каждого потока, раз в месяц
-- Запустили [гарантированные ревью](https://t.me/zhukovsd_it_mentor/147) для ваших проектов от менторов сообщества
+- Запустили [гарантированные ревью](https://telegram.me/zhukovsd_it_mentor/147) для ваших проектов от менторов сообщества
 - В [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) 7 (!) доступных ментора - Java (ура), Python, Kotlin, NodeJS/Golang, PHP
-- Книжный клуб - читаем "Ум программиста", модератором этого сезона книжного клуба является [@Alfx51](https://t.me/Alfx51). Приходите послушать и поучаствовать в обсуждениях, созвоны каждую субботу, анонсы в ветке "книжный клуб" [нашего чата](https://t.me/zhukovsd_it_chat)
+- Книжный клуб - читаем "Ум программиста", модератором этого сезона книжного клуба является [@Alfx51](https://telegram.me/Alfx51). Приходите послушать и поучаствовать в обсуждениях, созвоны каждую субботу, анонсы в ветке "книжный клуб" [нашего чата](https://telegram.me/zhukovsd_it_chat)
 
 ### Проекты студентов
 
-[41 проект](https://t.me/zhukovsd_it_chat/1/120597) на Java, Python, Kotlin, OCaml, Prolog ([@krios2146](https://t.me/krios2146) 🤡).
+[41 проект](https://telegram.me/zhukovsd_it_chat/1/120597) на Java, Python, Kotlin, OCaml, Prolog ([@krios2146](https://telegram.me/krios2146) 🤡).
 
 ### Ревью проектов
 
-[16 ревью](https://t.me/zhukovsd_it_chat/1/120602), особое спасибо:
-- Алексей [@Raketa4000az](https://t.me/Raketa4000az) - 11 ревью 
+[16 ревью](https://telegram.me/zhukovsd_it_chat/1/120602), особое спасибо:
+- Алексей [@Raketa4000az](https://telegram.me/Raketa4000az) - 11 ревью 
 
-Также спасибо Дмитрию [@DmMaff](https://t.me/DmMaff), Тимофею [@as1iva](https://t.me/as1iva), Сергею [@grandpraline](https://t.me/grandpraline), Илье [@coderilya](https://t.me/coderilya), Владимиру [@krios2146](https://t.me/krios2146).
+Также спасибо Дмитрию [@DmMaff](https://telegram.me/DmMaff), Тимофею [@as1iva](https://telegram.me/as1iva), Сергею [@grandpraline](https://telegram.me/grandpraline), Илье [@coderilya](https://telegram.me/coderilya), Владимиру [@krios2146](https://telegram.me/krios2146).
 
 ### Новое в Telegram
 
-- [Архив](https://t.me/zhukovsd_it_mentor/143) книжного клуба по теме "паттерны проектирования" - записи всех созвонов и коллекция заметок
-- [Карта](https://t.me/zhukovsd_it_mentor/144) всех активностей сообщества и новые идеи
+- [Архив](https://telegram.me/zhukovsd_it_mentor/143) книжного клуба по теме "паттерны проектирования" - записи всех созвонов и коллекция заметок
+- [Карта](https://telegram.me/zhukovsd_it_mentor/144) всех активностей сообщества и новые идеи
 
 ### Личное
 
-- Родился сын 👶 - https://t.me/zhukovsd_it_chat/1/117794
+- Родился сын 👶 - https://telegram.me/zhukovsd_it_chat/1/117794
 
 {{< tags >}}

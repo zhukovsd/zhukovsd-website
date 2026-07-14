@@ -17,10 +17,10 @@ tags: ["Роадмап", "Python"]
 - [SQLAlchemy и Alembic](https://zhukovsd.github.io/python-backend-learning-course/technologies/databases/#orm)
 - [Unit тестирование](https://zhukovsd.github.io/python-backend-learning-course/technologies/tests/#unit-%d1%82%d0%b5%d1%81%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5) с pytest
 
-Спасибо [@grandpraline](https://t.me/grandpraline), [@asinim](https://t.me/asinim), [@csatom](https://t.me/csatom) и всем остальным, кто поделился ссылками.
+Спасибо [@grandpraline](https://telegram.me/grandpraline), [@asinim](https://telegram.me/asinim), [@csatom](https://telegram.me/csatom) и всем остальным, кто поделился ссылками.
 
 Остается добавить образовательные ресурсы по нескольким темам - паттерны проектирования, MVC, http.server/uwsgi, FastAPI, Pip/poetry, Celery.
 
-Помощь приветствуется, делитесь ссылками на понравившиеся вам учебные ресурсы в [чате](https://t.me/zhukovsd_it_chat), или создайте pull request к [репозиторию](https://github.com/zhukovsd/python-backend-learning-course) с роадмапом.
+Помощь приветствуется, делитесь ссылками на понравившиеся вам учебные ресурсы в [чате](https://telegram.me/zhukovsd_it_chat), или создайте pull request к [репозиторию](https://github.com/zhukovsd/python-backend-learning-course) с роадмапом.
 
 {{< tags >}}

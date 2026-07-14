@@ -9,7 +9,7 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-[Антон](https://t.me/antonsibgatulin) поделился историей трудоустройства на 140к, будучи студентом первого курса.
+[Антон](https://telegram.me/antonsibgatulin) поделился историей трудоустройства на 140к, будучи студентом первого курса.
 
 ### Менторство по трудоустройству
 
@@ -34,17 +34,17 @@ tags: ["Итоги месяца"]
 
 ### Новости сообщества
 
-- Командный проект под руководством @DLISM закончился, [фидбек участников](https://t.me/zhukovsd_it_chat/1/83050) положительный
-- Книжный клуб - закончили читать "Чистый Код", в следующую субботу [начинаем разбирать](https://t.me/zhukovsd_it_mentor/134) паттерны проектирования, приходите
+- Командный проект под руководством @DLISM закончился, [фидбек участников](https://telegram.me/zhukovsd_it_chat/1/83050) положительный
+- Книжный клуб - закончили читать "Чистый Код", в следующую субботу [начинаем разбирать](https://telegram.me/zhukovsd_it_mentor/134) паттерны проектирования, приходите
 - В [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) 4 доступных ментора - NodeJS/Golang, C#, Java, Python
 
 ### Проекты студентов
 
-[41 проект](https://t.me/zhukovsd_it_chat/1/88485) на Java, Python, Kotlin, PHP. Новый рекорд по количеству проектов.
+[41 проект](https://telegram.me/zhukovsd_it_chat/1/88485) на Java, Python, Kotlin, PHP. Новый рекорд по количеству проектов.
 
 ### Ревью проектов
 
-[16 ревью](https://t.me/zhukovsd_it_chat/1/88500). Спасибо @Raketa4000az, @ilyacoder, @makeitvsolo, Illia, @krios2146, @apostol_fet, @IamNotARapperr, @zhukovsd.
+[16 ревью](https://telegram.me/zhukovsd_it_chat/1/88500). Спасибо @Raketa4000az, @ilyacoder, @makeitvsolo, Illia, @krios2146, @apostol_fet, @IamNotARapperr, @zhukovsd.
 
 Лидеры по ревью:
 - Алексей @Raketa4000az - 7 ревью

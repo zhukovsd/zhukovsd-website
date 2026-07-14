@@ -9,15 +9,15 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-Данила [@ggnavi](https://t.me/ggnavi), с которым мы недавно записывали [мок](https://www.youtube.com/watch?v=Zx6gdtp77qc), трудоустроился Java разработчиком в Сбер и поделился историей учёбы, пет проектов, своих проектов, поиска работы - [#1](https://t.me/zhukovsd_it_chat/56150/72699), [#2](https://t.me/zhukovsd_it_chat/56150/72700).
+Данила [@ggnavi](https://telegram.me/ggnavi), с которым мы недавно записывали [мок](https://www.youtube.com/watch?v=Zx6gdtp77qc), трудоустроился Java разработчиком в Сбер и поделился историей учёбы, пет проектов, своих проектов, поиска работы - [#1](https://telegram.me/zhukovsd_it_chat/56150/72699), [#2](https://telegram.me/zhukovsd_it_chat/56150/72700).
 
-[@yosakohf](https://t.me/yosakohf) [рассказал](https://t.me/zhukovsd_it_chat/56150/72726) свою истории становления Go разрабочтиком в довольно юном возрасте.
+[@yosakohf](https://telegram.me/yosakohf) [рассказал](https://telegram.me/zhukovsd_it_chat/56150/72726) свою истории становления Go разрабочтиком в довольно юном возрасте.
 
 ### Обновление материалов роадмапа
 
 Записана и выложена [лекция по MVC](https://www.youtube.com/watch?v=syjOb_jPJWE) - актуально для проектов с 3 и дальше.
 
-На прошлой неделе я [рассказывал](https://t.me/zhukovsd_it_mentor/122), что начал активную работу над своим первым продуктом - расширенным роадмапом.
+На прошлой неделе я [рассказывал](https://telegram.me/zhukovsd_it_mentor/122), что начал активную работу над своим первым продуктом - расширенным роадмапом.
 
 Текущий статус:
 - Проект в работе - обменник валют
@@ -28,20 +28,20 @@ tags: ["Итоги месяца"]
 
 ### Новости сообщества
 
-- В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) добавился новый Java ментор - Камиль [@badrbad](https://t.me/badrbad)
-- Командный проект под руководством [@DLISM](https://t.me/DLISM) в процессе, идёт четвёртый недельный спринт из восьми
-- Новая активность - книжный клуб под руководством [@Usla2021](https://t.me/Usla2021). Формат - каждую неделю читаем по одной главе из выбранной книги, в субботу на созвоне обсуждаем. Текущая книга - "Чистый код", в следующую субботу будем обсуждать 3 главу - [присоединяйтесь](https://t.me/zhukovsd_it_chat/69518/72786). В чате создана ветка под книжный клуб, созвоны доступны в записи.
+- В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) добавился новый Java ментор - Камиль [@badrbad](https://telegram.me/badrbad)
+- Командный проект под руководством [@DLISM](https://telegram.me/DLISM) в процессе, идёт четвёртый недельный спринт из восьми
+- Новая активность - книжный клуб под руководством [@Usla2021](https://telegram.me/Usla2021). Формат - каждую неделю читаем по одной главе из выбранной книги, в субботу на созвоне обсуждаем. Текущая книга - "Чистый код", в следующую субботу будем обсуждать 3 главу - [присоединяйтесь](https://telegram.me/zhukovsd_it_chat/69518/72786). В чате создана ветка под книжный клуб, созвоны доступны в записи.
 
 ### Проекты студентов
 
-[31 проект](https://t.me/zhukovsd_it_chat/1/72934) на Java, Python, Go, Kotlin, PHP.
+[31 проект](https://telegram.me/zhukovsd_it_chat/1/72934) на Java, Python, Go, Kotlin, PHP.
 
 ### Ревью проектов
 
-[16 ревью](https://t.me/zhukovsd_it_chat/1/72935) (рекорд🏆). Приятно видеть активность по ревью со стороны членов сообщества, самые активные ревьюеры этого месяца:
-- Алексей [@Raketa3000az](https://t.me/Raketa3000az) - 6 ревью
-- Илья [@ilyacoder](https://t.me/ilyacoder) - 3 ревью  
-- Иван [@makeitvsolo](https://t.me/makeitvsolo) и Костя [@hungryman9](https://t.me/hungryman9) - по 2 ревью
+[16 ревью](https://telegram.me/zhukovsd_it_chat/1/72935) (рекорд🏆). Приятно видеть активность по ревью со стороны членов сообщества, самые активные ревьюеры этого месяца:
+- Алексей [@Raketa3000az](https://telegram.me/Raketa3000az) - 6 ревью
+- Илья [@ilyacoder](https://telegram.me/ilyacoder) - 3 ревью  
+- Иван [@makeitvsolo](https://telegram.me/makeitvsolo) и Костя [@hungryman9](https://telegram.me/hungryman9) - по 2 ревью
 
 Для всех ревью в [списке реализаций](https://github.com/zhukovsd/java-backend-learning-course/blob/main/content/finished-projects/_index.md) теперь указан автор.
 

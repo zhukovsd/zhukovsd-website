@@ -11,7 +11,7 @@ tags: ["YouTube"]
 
 Хочется охватить больше типовых секций, встречающихся на собеседованиях, поэтому не будем повторяться ([предыдущий стрим](https://www.youtube.com/live/Zx6gdtp77qc?si=XgfWZ_8n8XNiN1TL)) и сразу перейдем к live refactoring - задача собеседуемого отрефакторить данный ему код, улучшив дизайн, исправив потенциальные проблемы. Рассмотрим 2 кейса, на Java Core и Spring Boot (REST, Data).
 
-В роли собеседуемого [@ilyacoder](https://t.me/ilyacoder).
+В роли собеседуемого [@ilyacoder](https://telegram.me/ilyacoder).
 
 Запись - https://www.youtube.com/watch?v=-ORT94B4XGw.
 

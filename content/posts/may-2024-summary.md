@@ -9,9 +9,9 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-[@k3rnl](https://t.me/k3rnl) прошел через тернии изучения С, Java, Python и [устроился](https://t.me/zhukovsd_it_chat/56150/76175) DevOps/SRE. Приятно видеть в сообществе представителей других направлений, не только разработчиков.
+[@k3rnl](https://telegram.me/k3rnl) прошел через тернии изучения С, Java, Python и [устроился](https://telegram.me/zhukovsd_it_chat/56150/76175) DevOps/SRE. Приятно видеть в сообществе представителей других направлений, не только разработчиков.
 
-Лиза [поделилась](https://t.me/zhukovsd_it_chat/56150/79534) историей эффективного роста через смену работы не без помощи нашего [группового менторства](https://zhukovsd.it/services/employment-mentorship/) по трудоустройству.🙂
+Лиза [поделилась](https://telegram.me/zhukovsd_it_chat/56150/79534) историей эффективного роста через смену работы не без помощи нашего [группового менторства](https://zhukovsd.it/services/employment-mentorship/) по трудоустройству.🙂
 
 ### Обновление материалов роадмапа
 
@@ -29,19 +29,19 @@ tags: ["Итоги месяца"]
 
 ### Новости сообщества
 
-- Командный проект под руководством [@DLISM](https://t.me/DLISM) в процессе, заканчивается предпоследний седьмой недельный спринт из восьми
+- Командный проект под руководством [@DLISM](https://telegram.me/DLISM) в процессе, заканчивается предпоследний седьмой недельный спринт из восьми
 - Книжный клуб - заканчиваем читать "Чистый код". Формат - каждую неделю читаем по одной главе из выбранной книги, в субботу на созвоне обсуждаем. В чате создана ветка под книжный клуб, созвоны доступны в записи.
 
 ### Проекты студентов
 
-[37 проектов](https://t.me/zhukovsd_it_chat/1/79659) на Java, Python, PHP.
+[37 проектов](https://telegram.me/zhukovsd_it_chat/1/79659) на Java, Python, PHP.
 
 ### Ревью проектов
 
-[15 ревью](https://t.me/zhukovsd_it_chat/1/79660). Спасибо [@Raketa4000az](https://t.me/Raketa4000az), [@grandpraline](https://t.me/grandpraline), [@makeitvsolo](https://t.me/makeitvsolo), [@hungryman9](https://t.me/hungryman9), [@xseeljvm](https://t.me/xseeljvm), [@IamNotARapperr](https://t.me/IamNotARapperr).
+[15 ревью](https://telegram.me/zhukovsd_it_chat/1/79660). Спасибо [@Raketa4000az](https://telegram.me/Raketa4000az), [@grandpraline](https://telegram.me/grandpraline), [@makeitvsolo](https://telegram.me/makeitvsolo), [@hungryman9](https://telegram.me/hungryman9), [@xseeljvm](https://telegram.me/xseeljvm), [@IamNotARapperr](https://telegram.me/IamNotARapperr).
 
 Лидеры по ревью:
-- Алексей [@Raketa4000az](https://t.me/Raketa4000az) - 6 ревью
-- Иван [@makeitvsolo](https://t.me/makeitvsolo), Костя [@hungryman9](https://t.me/hungryman9), Сергей [@grandpraline](https://t.me/grandpraline) - по 2 ревью
+- Алексей [@Raketa4000az](https://telegram.me/Raketa4000az) - 6 ревью
+- Иван [@makeitvsolo](https://telegram.me/makeitvsolo), Костя [@hungryman9](https://telegram.me/hungryman9), Сергей [@grandpraline](https://telegram.me/grandpraline) - по 2 ревью
 
 {{< tags >}}

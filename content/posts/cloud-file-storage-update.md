@@ -18,7 +18,7 @@ tags: ["Роадмап"]
 
 [Репозиторий фронтенда](https://github.com/zhukovsd/cloud-storage-frontend/)
 
-Андрей [@MrShoffen](https://t.me/MrShoffen) реализовал React приложение, предоставляющее интерфейс для всего нужного по ТЗ функционала. В дополнение к этому, приложение имеет адаптивную вёрстку и тёмную тему.
+Андрей [@MrShoffen](https://telegram.me/MrShoffen) реализовал React приложение, предоставляющее интерфейс для всего нужного по ТЗ функционала. В дополнение к этому, приложение имеет адаптивную вёрстку и тёмную тему.
 
 Статические ресурсы скомпилированного React приложения удобно [интегрируются](https://zhukovsd.github.io/java-backend-learning-course/projects/cloud-file-storage/#%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0) в Spring Boot сервис.
 
