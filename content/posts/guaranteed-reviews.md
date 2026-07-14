@@ -29,7 +29,7 @@ tags: ["Услуги", "Сообщество"]
 - Опционально, оставляете фидбек на полученное ревью - [форма для обратной связи](https://forms.gle/29aC2ipPTCsAXBik6).
 - В случае недопониманий или проблем пишите мне - @zhukovsd.
 
-Первые 6 менторов, участвующие в данном формате - [@Raketa4000az](https://telegram.me/Raketa4000az), [@coderilya](https://telegram.me/coderilya), [@krios2146](https://telegram.me/krios2146), [@apostol_fet](https://telegram.me/apostol_fet), [@LisaChulkova](https://telegram.me/LisaChulkova), [@IamNotARapperr](https://telegram.me/IamNotARapperr).
+Первые 6 менторов, участвующие в данном формате - [@Raketa4000az](https://t.me/Raketa4000az), [@coderilya](https://t.me/coderilya), [@krios2146](https://t.me/krios2146), [@apostol_fet](https://t.me/apostol_fet), [@LisaChulkova](https://t.me/LisaChulkova), [@IamNotARapperr](https://t.me/IamNotARapperr).
 
 ### FAQ
 
@@ -52,7 +52,7 @@ A: Решает ментор, на этапе согласования усло�
 
 Q: Хочу делать платные ревью, как начать?
 
-A: Сделайте 3 ревью на некоммерческой основе на проекты, публикуемые в [чате](https://telegram.me/zhukovsd_it_chat), после чего напишите мне.
+A: Сделайте 3 ревью на некоммерческой основе на проекты, публикуемые в [чате](https://t.me/zhukovsd_it_chat), после чего напишите мне.
 
 ### Промо активности
 

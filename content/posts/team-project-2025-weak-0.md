@@ -7,7 +7,7 @@ tags: ["Сообщество", "Командный проект"]
 
 # 💻 Командный проект, неделя 0
 
-Контекст — https://telegram.me/zhukovsd_it_mentor/191.
+Контекст — https://t.me/zhukovsd_it_mentor/191.
 
 ### Новости
 

@@ -10,8 +10,8 @@ tags: ["Сообщество"]
 Моя глобальная цель - помогать начинающим развиваться до коммерческого уровня и находить работу, для этого я работаю над потребностями тех, кто идёт по этому пути:
 
 - Учебный план - [роадмап](https://zhukovsd.github.io/java-backend-learning-course/)
-- Сообщество - [чат](https://telegram.me/zhukovsd_it_chat)
-- Опыт командной разработки - [наши командные проекты](https://telegram.me/zhukovsd_it_mentor/115)
+- Сообщество - [чат](https://t.me/zhukovsd_it_chat)
+- Опыт командной разработки - [наши командные проекты](https://t.me/zhukovsd_it_mentor/115)
 - Поиск работы - [менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/)
 
 ### Предпосылки

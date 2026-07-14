@@ -7,7 +7,7 @@ tags: ["Роадмап"]
 
 # 👨‍💻 Фронтенд для проекта роадмапа #5 - "Погода"  
 
-Продолжаю релизить готовую вёрстку для проектов роадмапа, ранее была выложена [вёрстка](https://telegram.me/zhukovsd_it_mentor/151) для проекта #4.
+Продолжаю релизить готовую вёрстку для проектов роадмапа, ранее была выложена [вёрстка](https://t.me/zhukovsd_it_mentor/151) для проекта #4.
 
 Для кого это - кто не хочет тратить время на вёрстку, чтобы сфокусировать внимание на бэкенд разработке.
 
@@ -24,7 +24,7 @@ tags: ["Роадмап"]
 - [Регистрация](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up.html), дополнительный [вариант](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up-with-errors.html) с ошибками валидации
 - [Страница](https://zhukovsd.github.io/weather-viewer-html-layouts/error.html) с ошибкой
 
-Спасибо [@a_salavei](https://telegram.me/a_salavei) за проект, который я взял за основу.
+Спасибо [@a_salavei](https://t.me/a_salavei) за проект, который я взял за основу.
 
 ### Как пользоваться
 

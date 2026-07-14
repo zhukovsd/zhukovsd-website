@@ -57,17 +57,17 @@ weight: 2023-11-30
 
 ### Ревью проектов
 
-- [weather](https://github.com/RomanV79/weather) от [RomanV79](https://github.com/RomanV79) на Java, [🎬 видео](https://telegram.me/zhukovsd_it_chat/39396), [заметки](https://gist.github.com/zhukovsd/fa57fc82447fc6d4d4f0f44f9ae3ef1b)
+- [weather](https://github.com/RomanV79/weather) от [RomanV79](https://github.com/RomanV79) на Java, [🎬 видео](https://t.me/zhukovsd_it_chat/39396), [заметки](https://gist.github.com/zhukovsd/fa57fc82447fc6d4d4f0f44f9ae3ef1b)
 - [Tennis-scoreboard](https://github.com/ArtemPronkin/Tennis-scoreboard) от [ArtemPronkin](https://github.com/ArtemPronkin) на Java, [📝 ревью](https://gist.github.com/zhukovsd/e3ee8db70b496612dd82b4610dd5f94f)
 
-Очередь проектов на ревью (видео/текстовые) - 10. К команде ревьюверов проектов на Java присоединился [krios2146](https://telegram.me/krios2146).
+Очередь проектов на ревью (видео/текстовые) - 10. К команде ревьюверов проектов на Java присоединился [krios2146](https://t.me/krios2146).
 
 ### Новое в Telegram
 
-- [Статья](https://telegram.me/zhukovsd_it_mentor/96) про сложности поиска первой работы и накрутка опыта в резюме
-- Годовщина канала, [планы на будущее](https://telegram.me/zhukovsd_it_mentor/97)
-- [Анонс](https://telegram.me/zhukovsd_it_mentor/98) личных консультаций
-- [План действий](https://zhukovsd.github.io/java-backend-learning-course/plan) для начинающих и [другие обновления](https://telegram.me/zhukovsd_it_mentor/99) материалов курса
+- [Статья](https://t.me/zhukovsd_it_mentor/96) про сложности поиска первой работы и накрутка опыта в резюме
+- Годовщина канала, [планы на будущее](https://t.me/zhukovsd_it_mentor/97)
+- [Анонс](https://t.me/zhukovsd_it_mentor/98) личных консультаций
+- [План действий](https://zhukovsd.github.io/java-backend-learning-course/plan) для начинающих и [другие обновления](https://t.me/zhukovsd_it_mentor/99) материалов курса
 
 ### Новое на YouTube
 
