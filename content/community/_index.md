@@ -7,7 +7,7 @@ type: "blank"
 
 ## Сообщество в числах
 
-- [Чат](https://telegram.me/zhukovsd_it_chat) на 1500 человек
+- [Чат](https://t.me/zhukovsd_it_chat) на 1500 человек
 - 81 трудоустройств с моей прямой помощью в период с мая 2024 по октябрь 2025
 - 1200+ написанных проектов, 500+ публичных ревью - [https://zhukovsd.github.io/java-backend-learning-course/finished-projects/](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/)
 - 25 [менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0), групповые активности на 100+ человек в месяц
@@ -16,7 +16,7 @@ type: "blank"
 
 ### Заинтересованным в IT карьере
 
-- Мотивация - [истории успеха](https://telegram.me/zhukovsd_it_chat/56150/56151), лекции о том как эффективно подойти к вопросу учебы ([#1](https://www.youtube.com/live/xCyulM2VHsQ?si=bvCX1bZbKk89qbI0) / [#2](https://www.youtube.com/live/IlrNXhesSVs?si=CcdD2QlCHPH44ECQ)), [подкасты](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbjLwcF9uxbjsdHuMqbvPdp) с трудоустроенными студентами
+- Мотивация - [истории успеха](https://t.me/zhukovsd_it_chat/56150/56151), лекции о том как эффективно подойти к вопросу учебы ([#1](https://www.youtube.com/live/xCyulM2VHsQ?si=bvCX1bZbKk89qbI0) / [#2](https://www.youtube.com/live/IlrNXhesSVs?si=CcdD2QlCHPH44ECQ)), [подкасты](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbjLwcF9uxbjsdHuMqbvPdp) с трудоустроенными студентами
 
 ### Учащимся - материалы
 
@@ -30,8 +30,8 @@ type: "blank"
 
 - [Таблица менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) - получите помощь от опытных членов сообщества - сопровождение работы над проектами, мок собеседования, и многое другое
 - [Командный проект](https://zhukovsd.it/posts/team-project-announce/) сообщества
-- [Групповая работа](https://telegram.me/+t6-KVhDfA9k2NWRi) над проектами
-- [Книжный клуб](https://telegram.me/zhukovsd_it_chat/69518/69519) - читаем книги вместе, обсуждаем на созвонах
+- [Групповая работа](https://t.me/+t6-KVhDfA9k2NWRi) над проектами
+- [Книжный клуб](https://t.me/zhukovsd_it_chat/69518/69519) - читаем книги вместе, обсуждаем на созвонах
 
 ### Учащимся - услуги
 
@@ -50,10 +50,10 @@ type: "blank"
 
 ### Работающим
 
-- **[$]** [Сопровождение](https://telegram.me/zhukovsd_it_chat/61971/95211) на испыталке
+- **[$]** [Сопровождение](https://t.me/zhukovsd_it_chat/61971/95211) на испыталке
 - **[$]** [Консультации](/services/consulting/) - карьерные решения, поиск точек роста
 
 ### Компаниям/бизнесу
 
-- **[$]** Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://telegram.me/zhukovsd))
+- **[$]** Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://t.me/zhukovsd))
 - **[$]** [Консультации](/services/consulting/) - проектирование, выстраивание процессов

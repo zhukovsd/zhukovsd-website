@@ -6,7 +6,7 @@ toc: true
 
 ## Чем могу быть полезен
 
-Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://telegram.me/zhukovsd_it_mentor) каналов.
+Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов.
 
 ### Менторство по трудоустройству
 
@@ -17,8 +17,8 @@ toc: true
 Подробнее про формат, условия, стоимость - [Менторство по трудоустройству](/services/employment-mentorship).
 
 Отзывы:
-- Истории успеха моих студентов - [https://telegram.me/zhukovsd_it_chat/56150/56151](https://telegram.me/zhukovsd_it_chat/56150/56151)
-- [https://telegram.me/find_it_mentor_bot?start=zhukovsd](https://telegram.me/find_it_mentor_bot?start=zhukovsd)
+- Истории успеха моих студентов - [https://t.me/zhukovsd_it_chat/56150/56151](https://t.me/zhukovsd_it_chat/56150/56151)
+- [https://t.me/find_it_mentor_bot?start=zhukovsd](https://t.me/find_it_mentor_bot?start=zhukovsd)
 
 ### Валютные удалёнки
 
@@ -49,9 +49,9 @@ toc: true
 
 ## Кейсы моих студентов
 
-- [Переход](https://telegram.me/zhukovsd_it_chat/56150/79534) на новую работу с х2.5 по зарплате
-- [Опыт трудоустройства](https://telegram.me/zhukovsd_it_chat/56150/103670) через менторство
-- [История](https://telegram.me/zhukovsd_it_chat/56150/159263) про учёбу по роадмапу и трудоустройство через менторство
+- [Переход](https://t.me/zhukovsd_it_chat/56150/79534) на новую работу с х2.5 по зарплате
+- [Опыт трудоустройства](https://t.me/zhukovsd_it_chat/56150/103670) через менторство
+- [История](https://t.me/zhukovsd_it_chat/56150/159263) про учёбу по роадмапу и трудоустройство через менторство
 
 ## Учебные материалы
 
@@ -62,4 +62,4 @@ toc: true
 
 ## Контакты
 
-https://telegram.me/zhukovsd
+https://t.me/zhukovsd

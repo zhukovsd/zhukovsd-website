@@ -9,7 +9,7 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха 🎉
 
-- Вдохновляющая [история](https://telegram.me/zhukovsd_it_chat/56150/170729) в трёх частях про учёбу, работу на заводе и поиск работы
+- Вдохновляющая [история](https://t.me/zhukovsd_it_chat/56150/170729) в трёх частях про учёбу, работу на заводе и поиск работы
 
 ### Менторство по трудоустройству
 
@@ -20,37 +20,37 @@ https://zhukovsd.it/services/employment-mentorship/
 
 ### Новости сообщества
 
-- Записаться на [февральский поток групповой работы над проектами](https://telegram.me/zhukovsd_it_mentor/137) можно по [ссылке](https://forms.gle/KzT36LNCMHE5WGH17).
+- Записаться на [февральский поток групповой работы над проектами](https://t.me/zhukovsd_it_mentor/137) можно по [ссылке](https://forms.gle/KzT36LNCMHE5WGH17).
 - Традиционная скидка на эталонные реализации проектов роадмапа в честь окончания январского потока групповой работы над проектами — 50% до 6 февраля — [виселица](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8?share=post_link), [обмен валют](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b?share=post_link).
-- Появились новые менторы, делающие [гарантированные ревью](https://telegram.me/zhukovsd_it_mentor/147) для ваших проектов — Java, Kotlin, Python.
+- Появились новые менторы, делающие [гарантированные ревью](https://t.me/zhukovsd_it_mentor/147) для ваших проектов — Java, Kotlin, Python.
 - В [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0) 5 доступных менторов — Java, Python, Kotlin, NodeJS/Golang, PHP.
-- Книжный клуб — читаем ["Программист-прагматик"](https://telegram.me/zhukovsd_it_chat/69518/175115). Присоединяйтесь.
+- Книжный клуб — читаем ["Программист-прагматик"](https://t.me/zhukovsd_it_chat/69518/175115). Присоединяйтесь.
 
 ### Материалы от членов сообщества
 
-- Лекция по ООП дизайну от Алексея [@Raketa4000az](https://telegram.me/Raketa4000az) — реализация консольной игры в рулетку, за клавиатурой [@daniyal_daniyal](https://telegram.me/daniyal_daniyal), [запись](https://telegram.me/zhukovsd_it_chat/53243/167110).
-- Ещё один мастеркласс по ООП дизайну от Алексея [@Raketa4000az](https://telegram.me/Raketa4000az). Пишем игру "Орел и решка" в ООП, сначала в консоли, потом с UI на Swing, за клавиатурой [@chuckcha1337](https://telegram.me/chuckcha1337) — [запись #1](https://telegram.me/zhukovsd_it_chat/170630), [запись #2](https://telegram.me/zhukovsd_it_chat/53243/172658).
-- [Видео](https://telegram.me/my_study_for_mentor/49) от Данияла [@daniyal_daniyal](https://telegram.me/daniyal_daniyal) про горячие клавиши в IDEA с VSCode раскладкой.
-- [Таблица](https://telegram.me/zhukovsd_it_chat/53243/171236) горячих клавиш IDEA в классической раскладке для Windows от [@Exelent26](https://telegram.me/Exelent26).
+- Лекция по ООП дизайну от Алексея [@Raketa4000az](https://t.me/Raketa4000az) — реализация консольной игры в рулетку, за клавиатурой [@daniyal_daniyal](https://t.me/daniyal_daniyal), [запись](https://t.me/zhukovsd_it_chat/53243/167110).
+- Ещё один мастеркласс по ООП дизайну от Алексея [@Raketa4000az](https://t.me/Raketa4000az). Пишем игру "Орел и решка" в ООП, сначала в консоли, потом с UI на Swing, за клавиатурой [@chuckcha1337](https://t.me/chuckcha1337) — [запись #1](https://t.me/zhukovsd_it_chat/170630), [запись #2](https://t.me/zhukovsd_it_chat/53243/172658).
+- [Видео](https://t.me/my_study_for_mentor/49) от Данияла [@daniyal_daniyal](https://t.me/daniyal_daniyal) про горячие клавиши в IDEA с VSCode раскладкой.
+- [Таблица](https://t.me/zhukovsd_it_chat/53243/171236) горячих клавиш IDEA в классической раскладке для Windows от [@Exelent26](https://t.me/Exelent26).
 
 ### Проекты студентов
 
-[56 проектов](https://telegram.me/zhukovsd_it_chat/1/175217) на Java, Python, Kotlin.
+[56 проектов](https://t.me/zhukovsd_it_chat/1/175217) на Java, Python, Kotlin.
 
 ### Ревью проектов
 
-[31 ревью](https://telegram.me/zhukovsd_it_chat/1/175219).
+[31 ревью](https://t.me/zhukovsd_it_chat/1/175219).
 
 Рекордсмены:
-- Алексей [@Raketa4000az](https://telegram.me/Raketa4000az) — 15 ревью
-- Евгений [@solid_jdk](https://telegram.me/solid_jdk) и Артём [@liemartt](https://telegram.me/liemartt) — 2 ревью
+- Алексей [@Raketa4000az](https://t.me/Raketa4000az) — 15 ревью
+- Евгений [@solid_jdk](https://t.me/solid_jdk) и Артём [@liemartt](https://t.me/liemartt) — 2 ревью
 
-Спасибо Евгению [@zhekadoe](https://telegram.me/zhekadoe), Степану [@xseeljvm](https://telegram.me/xseeljvm), Вадиму [@oneQwerty2](https://telegram.me/oneQwerty2), Артему [@pronkin_artem](https://telegram.me/pronkin_artem), Даниялу [@daniyal_daniyal](https://telegram.me/daniyal_daniyal), Владиславу [@St4rl1ne](https://telegram.me/St4rl1ne), Сергею [@grandpraline](https://telegram.me/grandpraline), Максиму [@apostol_fet](https://telegram.me/apostol_fet), Кириллу [@gonertheowner](https://telegram.me/gonertheowner), Владу [@vladusProgramus](https://telegram.me/vladusProgramus), Артуру [@ArturChegur](https://telegram.me/ArturChegur).
+Спасибо Евгению [@zhekadoe](https://t.me/zhekadoe), Степану [@xseeljvm](https://t.me/xseeljvm), Вадиму [@oneQwerty2](https://t.me/oneQwerty2), Артему [@pronkin_artem](https://t.me/pronkin_artem), Даниялу [@daniyal_daniyal](https://t.me/daniyal_daniyal), Владиславу [@St4rl1ne](https://t.me/St4rl1ne), Сергею [@grandpraline](https://t.me/grandpraline), Максиму [@apostol_fet](https://t.me/apostol_fet), Кириллу [@gonertheowner](https://t.me/gonertheowner), Владу [@vladusProgramus](https://t.me/vladusProgramus), Артуру [@ArturChegur](https://t.me/ArturChegur).
 
 Напоминаю про доступные в сообществе [гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms/edit?gid=0#gid=0).
 
 ### Новое на YouTube
 
-- [Стрим](https://www.youtube.com/watch?v=Z_kZYo0TwnQ) с [@decembristit](https://telegram.me/decembristit) про вкат в IT, накрутку опыта, амбиции и карьерный рост
+- [Стрим](https://www.youtube.com/watch?v=Z_kZYo0TwnQ) с [@decembristit](https://t.me/decembristit) про вкат в IT, накрутку опыта, амбиции и карьерный рост
 
 {{< tags >}}

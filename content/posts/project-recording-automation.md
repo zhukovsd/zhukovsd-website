@@ -29,15 +29,15 @@ tags: ["Роадмап"]
 
 На 16 февраля 2025, сдано 800 проектов на 13 языках программирования.
 
-Когда кто-то публикует в [чате](https://telegram.me/zhukovsd_it_chat) свой готовый проект, я вызываю команду `/addproject $language $project`. [Бот сообщества](https://github.com/zhukovsd/it-mentor-community-bot/), написанный на Python и python-telegram-bot, сканирует сообщение на предмет ссылки на гитхаб, и добавляет проект в [Google таблицу](https://docs.google.com/spreadsheets/d/1E66YrdvO7B_j0Ykge-JJDMtB1RfKhIzN_SsO7UPDbrU/edit?gid=0#gid=0).
+Когда кто-то публикует в [чате](https://t.me/zhukovsd_it_chat) свой готовый проект, я вызываю команду `/addproject $language $project`. [Бот сообщества](https://github.com/zhukovsd/it-mentor-community-bot/), написанный на Python и python-telegram-bot, сканирует сообщение на предмет ссылки на гитхаб, и добавляет проект в [Google таблицу](https://docs.google.com/spreadsheets/d/1E66YrdvO7B_j0Ykge-JJDMtB1RfKhIzN_SsO7UPDbrU/edit?gid=0#gid=0).
 
 ![1](/images/project-recording-automation/project-list.png)
 
 Каждая строчка листа "Projects" описывает 1 проект - репозиторий, автора, язык.
 
-[Pull request](https://github.com/zhukovsd/it-mentor-community-bot/pull/14) с реализацией (писал [@Asinim](https://telegram.me/Asinim)).
+[Pull request](https://github.com/zhukovsd/it-mentor-community-bot/pull/14) с реализацией (писал [@Asinim](https://t.me/Asinim)).
 
-Эта информация используется для генерации списка свежих проектов за месяц (публикуется в конце месяца - [пример](https://telegram.me/zhukovsd_it_chat/1/147874)) и актуализации списка всех проектов на сайте роадмапа - [все реализации виселицы](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/hangman/).
+Эта информация используется для генерации списка свежих проектов за месяц (публикуется в конце месяца - [пример](https://t.me/zhukovsd_it_chat/1/147874)) и актуализации списка всех проектов на сайте роадмапа - [все реализации виселицы](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/hangman/).
 
 ### Генерация списка свежих проектов
 
@@ -68,7 +68,7 @@ Google таблица является исходным источником д�
 - [Задача](https://github.com/zhukovsd/it-mentor-community-bot/issues/32)
 - [Код](https://github.com/zhukovsd/it-mentor-community-bot/pull/34)
 
-Над задачами по генерации работал [@krios2146](https://telegram.me/krios2146).
+Над задачами по генерации работал [@krios2146](https://t.me/krios2146).
 
 ## Статистика
 

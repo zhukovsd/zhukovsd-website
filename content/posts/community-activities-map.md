@@ -18,9 +18,9 @@ tags: ["Сообщество"]
 - Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/)
 - [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
 - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из сотен реализаций проектов роадмапа и ревью к ним
-- [Сообщество](https://telegram.me/zhukovsd_it_chat) для обсуждения учебы, проектов, ревью
-- [Парное менторство](https://telegram.me/zhukovsd_it_mentor/109)
-- [Групповая работа](https://telegram.me/zhukovsd_it_mentor/141) над проектами
+- [Сообщество](https://t.me/zhukovsd_it_chat) для обсуждения учебы, проектов, ревью
+- [Парное менторство](https://t.me/zhukovsd_it_mentor/109)
+- [Групповая работа](https://t.me/zhukovsd_it_mentor/141) над проектами
 - Книжный клуб
 - [$] [Консультации](https://zhukovsd.it/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
 - [$] [Учебная подписка](https://zhukovsd.it/services/student-subscription/)
@@ -32,12 +32,12 @@ tags: ["Сообщество"]
 
 ### Работающим
 
-- [$] [Сопровождение](https://telegram.me/zhukovsd_it_chat/61971/95211) на испыталке
+- [$] [Сопровождение](https://t.me/zhukovsd_it_chat/61971/95211) на испыталке
 - [$] [Консультации](https://zhukovsd.it/services/consulting/) - карьерные решения, поиск точек роста
 
 ### Компаниям/бизнесу
 
-- [$] Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://telegram.me/zhukovsd))
+- [$] Подбор исполнителей - разработчиков, за уровень которых я могу ручаться (пишите в [личные сообщения](https://t.me/zhukovsd))
 - [$] [Консультации](https://zhukovsd.it/services/consulting/) - проектирование, выстраивание процессов
 
 ### Идеи на будущее
@@ -50,6 +50,6 @@ tags: ["Сообщество"]
 - Гарантированные ревью на коммерческой основе
 - Работа над проектом с ментором через созвоны и промежуточные ревью 
 
-Чего не хватает лично вам? Жду ваших идей в [чате](https://telegram.me/zhukovsd_it_chat).
+Чего не хватает лично вам? Жду ваших идей в [чате](https://t.me/zhukovsd_it_chat).
 
 {{< tags >}} 
