@@ -21,9 +21,9 @@ https://youtube.com/live/APY8kn0_b_s
 - Цели и идеи на 2026
 - Личные итоги - совмещение работы, менторства, семьи
 
-Тизер слайдов к стриму - https://t.me/zhukovsd_it_chat/1/279706?single
+Тизер слайдов к стриму - https://telegram.me/zhukovsd_it_chat/1/279706?single
 
-Так же обсудим ваш фидбек и предложения. Во время стрима буду читать [donation alerts](https://www.donationalerts.com/r/zhukovsd), [чат](https://youtube.com/live/APY8kn0_b_s?feature=share) на youtube, [личку](https://t.me/zhukovsd) в телеграм. Запись будет доступна по ссылке (публично на канале выкладывать не буду).
+Так же обсудим ваш фидбек и предложения. Во время стрима буду читать [donation alerts](https://www.donationalerts.com/r/zhukovsd), [чат](https://youtube.com/live/APY8kn0_b_s?feature=share) на youtube, [личку](https://telegram.me/zhukovsd) в телеграм. Запись будет доступна по ссылке (публично на канале выкладывать не буду).
 
 До встречи. 🙂
 {{< youtube APY8kn0_b_s >}}

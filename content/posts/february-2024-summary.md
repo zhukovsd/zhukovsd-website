@@ -9,12 +9,12 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха
 
-- Пожелавший остаться анонимным студент [поделился историей](https://t.me/zhukovsd_it_chat/56150/60938) своего обучения и получения оффера на позицию джава разработчика без накрутки опыта. 👏
+- Пожелавший остаться анонимным студент [поделился историей](https://telegram.me/zhukovsd_it_chat/56150/60938) своего обучения и получения оффера на позицию джава разработчика без накрутки опыта. 👏
 
 ### Новости сообщества
 
 - В нашей [таблице менторов](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68) уже 15 менторов, пятеро доступны (Java, Python, .NET)
-- [Новая ветка чата](https://t.me/zhukovsd_it_chat/61971) для обсуждения поиска работы
+- [Новая ветка чата](https://telegram.me/zhukovsd_it_chat/61971) для обсуждения поиска работы
 - Добавил себя в таблицу менторов для помощи с трудоустройством - [формат, условия](https://zhukovsd.it/services/employment-mentorship/)
 
 ### Проекты студентов
@@ -50,7 +50,7 @@ Tennis scoreboard - 3 проекта:
 
 ### Ревью
 
-За ревью спасибо [@krios2146](https://t.me/krios2146), [@coderilya](https://t.me/coderilya), [@makeitvsolo](https://t.me/makeitvsolo), [@Raketa4000az](https://t.me/Raketa4000az), [@happy_shk](https://t.me/happy_shk).
+За ревью спасибо [@krios2146](https://telegram.me/krios2146), [@coderilya](https://telegram.me/coderilya), [@makeitvsolo](https://telegram.me/makeitvsolo), [@Raketa4000az](https://telegram.me/Raketa4000az), [@happy_shk](https://telegram.me/happy_shk).
 
 - [Hangman](https://github.com/Guzaliya1997/Hangman) проект Виселица от [Guzaliya1997](https://github.com/Guzaliya1997) на Java, [ревью](https://gist.github.com/Asenim/a42c973de263d68274f9a7a43c65215e)
 - [hangman_Game](https://github.com/Solo83/hangman_Game) проект Виселица от [Solo83](https://github.com/Solo83) на Java, [ревью](https://gist.github.com/Asenim/ab987f63d782712eaa32f029701eeaa8)
@@ -65,7 +65,7 @@ Tennis scoreboard - 3 проекта:
 
 ### Новое в Telegram
 
-- [Статья](https://t.me/zhukovsd_it_mentor/112) про истории эксплуатации проекта http://it-jobs.zhukovsd.com/
+- [Статья](https://telegram.me/zhukovsd_it_mentor/112) про истории эксплуатации проекта http://it-jobs.zhukovsd.com/
 
 ### Новое на YouTube
 

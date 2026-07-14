@@ -13,7 +13,7 @@ tags: ["Итоги месяца"]
 
 ### Трудоустройства
 
-Артём [получил работу](https://t.me/zhukovsd_it_chat/47346) Kotlin разработчиком 👍
+Артём [получил работу](https://telegram.me/zhukovsd_it_chat/47346) Kotlin разработчиком 👍
 
 ### Проекты студентов
 
@@ -25,7 +25,7 @@ tags: ["Итоги месяца"]
 - [01-project--Handman-game](https://github.com/VictorGotsenko/01-project--Handman-game) от [VictorGotsenko](https://github.com/VictorGotsenko) на Java
 - [scaffold2](https://github.com/SuleymanovSergey/scaffold2) от [SuleymanovSergey](https://github.com/SuleymanovSergey) на Java
 - [hungman](https://github.com/VladislavLevchikIsAProger/hungman/tree/master/Viselnitsa) от [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) на Java
-- [Виселица](https://github.com/EvKnv/Gallow) от [@EvKn2](https://t.me/EvKn2) на Java
+- [Виселица](https://github.com/EvKnv/Gallow) от [@EvKn2](https://telegram.me/EvKn2) на Java
 
 #### Симуляция
 
@@ -51,7 +51,7 @@ tags: ["Итоги месяца"]
 - [WeatherSmalko](https://github.com/Smalko1/WeatherSmalko) от [Smalko1](https://github.com/Smalko1) на Java
 - [weather-viewer](https://github.com/Icekubit/weather-viewer) от [Icekubit](https://github.com/Icekubit) на Java
 - [Weather](https://github.com/Cofisweak/Weather) от [Cofisweak](https://github.com/Cofisweak) на Java
-- [Погода](https://github.com/KostaPo/my-weather/) от [@KostaPo](https://t.me/KostaPo) на Java
+- [Погода](https://github.com/KostaPo/my-weather/) от [@KostaPo](https://telegram.me/KostaPo) на Java
 
 ### Ревью
 
@@ -65,8 +65,8 @@ tags: ["Итоги месяца"]
 
 ### Новое в Telegram
 
-- В Python версию роадмапа добавлены [ссылки](https://t.me/zhukovsd_it_mentor/102) на избранные образовательные ресурсы
-- Составлена [коллекция главных статей и стримов](https://t.me/zhukovsd_it_mentor/103)
+- В Python версию роадмапа добавлены [ссылки](https://telegram.me/zhukovsd_it_mentor/102) на избранные образовательные ресурсы
+- Составлена [коллекция главных статей и стримов](https://telegram.me/zhukovsd_it_mentor/103)
 
 ### YouTube
 

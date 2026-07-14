@@ -9,7 +9,7 @@ tags: ["Итоги месяца"]
 
 ### Истории успеха
 
-- Пожелавший остаться анонимным подписчик [поделился опытом](https://t.me/zhukovsd_it_chat/56150/56173) получения нескольких офферов
+- Пожелавший остаться анонимным подписчик [поделился опытом](https://telegram.me/zhukovsd_it_chat/56150/56173) получения нескольких офферов
 
 ### Новости сообщества
 
@@ -19,11 +19,11 @@ tags: ["Итоги месяца"]
 
 ---
 
-[Чат](https://t.me/zhukovsd_it_chat) разделён на отдельные ветки - обо всём, Java, Python, истории успеха. Если вас смущало обсуждать конкретные темы в общем потоке флуда, проблема решена.
+[Чат](https://telegram.me/zhukovsd_it_chat) разделён на отдельные ветки - обо всём, Java, Python, истории успеха. Если вас смущало обсуждать конкретные темы в общем потоке флуда, проблема решена.
 
 ---
 
-Спасибо всем кто заполнил [опросник](https://t.me/zhukovsd_it_mentor/107) по текущему и будущему контенту, [разбор](https://t.me/zhukovsd_it_chat/1/52898) результатов. Ответы показывают, что 75% заинтересованы в тестовых мок собеседованиях, в феврале запланирован стрим с мок собеседованием на позицию Java разработчика.
+Спасибо всем кто заполнил [опросник](https://telegram.me/zhukovsd_it_mentor/107) по текущему и будущему контенту, [разбор](https://telegram.me/zhukovsd_it_chat/1/52898) результатов. Ответы показывают, что 75% заинтересованы в тестовых мок собеседованиях, в феврале запланирован стрим с мок собеседованием на позицию Java разработчика.
 
 ### Проекты студентов
 
@@ -72,7 +72,7 @@ tags: ["Итоги месяца"]
 ### Ревью
 
 - [WeatherService](https://github.com/ArtemPronkin/WeatherService) - погода от [ArtemPronkin](https://github.com/ArtemPronkin) на Java, [ревью](https://gist.github.com/zhukovsd/8988a29b39cef0e651b046e1148ad340)
-- [hangman](https://github.com/IlPl123454/hangman/tree/master) проект Виселица от [IlPl123454](https://github.com/IlPl123454) на Java, [ревью](https://gist.github.com/zhukovsd/9ddf43d475c48313492a6a51a6552417) (за ревью спасибо [@MaddeningShadow](https://t.me/MaddeningShadow))
+- [hangman](https://github.com/IlPl123454/hangman/tree/master) проект Виселица от [IlPl123454](https://github.com/IlPl123454) на Java, [ревью](https://gist.github.com/zhukovsd/9ddf43d475c48313492a6a51a6552417) (за ревью спасибо [@MaddeningShadow](https://telegram.me/MaddeningShadow))
 
 ### Новое на YouTube
 

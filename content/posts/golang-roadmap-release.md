@@ -23,7 +23,7 @@ https://zhukovsd.github.io/golang-backend-learning-course/
 
 Основное идейное отличие Golang бэкенд разработки от Java - отсутствие единого фреймворка, такого как Spring.
 
-За адаптацию роадмапа и ТЗ проектов спасибо Юре [@yosakohf](https://t.me/yosakohf).
+За адаптацию роадмапа и ТЗ проектов спасибо Юре [@yosakohf](https://telegram.me/yosakohf).
 
 ---
 
@@ -39,6 +39,6 @@ https://zhukovsd.github.io/golang-backend-learning-course/
 
 В честь релиза, ревью 10 следующих реализаций на Go - за мой счёт.
 
-Если найдёте ошибки или опечатки в тексте роадмапа, пишите пожалуйста [@zhukovsd_assistant](https://t.me/zhukovsd_assistant) или создавайте Pull Request к [репозиторию](https://github.com/zhukovsd/golang-backend-learning-course).
+Если найдёте ошибки или опечатки в тексте роадмапа, пишите пожалуйста [@zhukovsd_assistant](https://telegram.me/zhukovsd_assistant) или создавайте Pull Request к [репозиторию](https://github.com/zhukovsd/golang-backend-learning-course).
 
 {{< tags >}}

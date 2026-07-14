@@ -7,11 +7,11 @@ tags: ["Роадмап"]
 
 # 👨‍💻 Фронтенд для проекта роадмапа #4 - "теннисное табло"
 
-На прошлой неделе я перечислял новые идеи по упрощению/актуализации роадмапа, и 135 человек в [опросе](https://t.me/zhukovsd_it_chat/1/126023) оценили актуальность этих идей.
+На прошлой неделе я перечислял новые идеи по упрощению/актуализации роадмапа, и 135 человек в [опросе](https://telegram.me/zhukovsd_it_chat/1/126023) оценили актуальность этих идей.
 
 С большим отрывом победил готовый фронтенд для проектов с 4 по 7.
 
-Решил начать с фронтенда для проекта #4 - https://github.com/zhukovsd/tennis-scoreboard-html-layouts (за основу взял проект от [@IamNotARapperr](https://t.me/IamNotARapperr) - https://github.com/vladislavLevchikIsAProger/tennis_scoreboard)
+Решил начать с фронтенда для проекта #4 - https://github.com/zhukovsd/tennis-scoreboard-html-layouts (за основу взял проект от [@IamNotARapperr](https://telegram.me/IamNotARapperr) - https://github.com/vladislavLevchikIsAProger/tennis_scoreboard)
 
 ### Что внутри
 

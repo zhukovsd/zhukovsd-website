@@ -7,7 +7,7 @@ tags: ["YouTube", "Подкасты"]
 
 # 🎥 Подкаст про изучение Java и трудоустройство
 
-Вышел подкаст со мной на [канале фронтенд ментора Даниила Лаптева](https://t.me/future_cto_notes).
+Вышел подкаст со мной на [канале фронтенд ментора Даниила Лаптева](https://telegram.me/future_cto_notes).
 
 [Смотреть на YouTube](https://www.youtube.com/watch?v=QY2noKdUk-Q)
 

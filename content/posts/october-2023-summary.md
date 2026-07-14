@@ -9,11 +9,11 @@ tags: ["Итоги месяца"]
 
 ## Трудоустройства
 
-- [@onlyvvay](https://t.me/onlyvvay) получил [оффер](https://t.me/zhukovsd_it_chat/32756) на позицию PHP разработчика
-- [@IOKonovalov](https://t.me/IOKonovalov) [устроился](https://t.me/zhukovsd_it_chat/29774) Java разработчиком
-- [@anelfer](https://t.me/anelfer) после 20+ собесов получил Junior+ оффер
-- [@vkokourov](https://t.me/vkokourov) успешно [свичнулся](https://t.me/zhukovsd_it_chat/37288) из менеджмента в разработку
-- Участники летнего командного проекта [@DLISM](https://t.me/DLISM) и [@RomanV79](https://t.me/RomanV79) нашли работу Java разработчиками
+- [@onlyvvay](https://telegram.me/onlyvvay) получил [оффер](https://telegram.me/zhukovsd_it_chat/32756) на позицию PHP разработчика
+- [@IOKonovalov](https://telegram.me/IOKonovalov) [устроился](https://telegram.me/zhukovsd_it_chat/29774) Java разработчиком
+- [@anelfer](https://telegram.me/anelfer) после 20+ собесов получил Junior+ оффер
+- [@vkokourov](https://telegram.me/vkokourov) успешно [свичнулся](https://telegram.me/zhukovsd_it_chat/37288) из менеджмента в разработку
+- Участники летнего командного проекта [@DLISM](https://telegram.me/DLISM) и [@RomanV79](https://telegram.me/RomanV79) нашли работу Java разработчиками
 
 ## Проекты студентов
 
@@ -35,12 +35,12 @@ tags: ["Итоги месяца"]
 - [WeatherService](https://github.com/ArtemPronkin/WeatherService) от [ArtemPronkin](https://github.com/ArtemPronkin) на Java
 - [WeatherApp](https://github.com/u-cha/WeatherApp/) от [u-cha](https://github.com/u-cha) на Python
 - [SmalkoScoreBoard](https://github.com/Smalko1/SmalkoScoreBoard/tree/migration_to_H2_database) от [Smalko1](https://github.com/Smalko1) на Java
-- [CurrencyExchange](https://github.com/MrSinkaaa/CurrencyExchange) от [MaddeningShadow](https://t.me/MaddeningShadow) на Java
-- [servlert-currency-exchange](https://github.com/grishuchkov/servlert-currency-exchange) от [ggnavi](https://t.me/ggnavi) на Java
+- [CurrencyExchange](https://github.com/MrSinkaaa/CurrencyExchange) от [MaddeningShadow](https://telegram.me/MaddeningShadow) на Java
+- [servlert-currency-exchange](https://github.com/grishuchkov/servlert-currency-exchange) от [ggnavi](https://telegram.me/ggnavi) на Java
 
 ## Новые ревью
 
-- [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) от [@IOKonovalov](https://t.me/IOKonovalov) на Java, [🎬 ревью](https://t.me/zhukovsd_it_chat/36625)
+- [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) от [@IOKonovalov](https://telegram.me/IOKonovalov) на Java, [🎬 ревью](https://telegram.me/zhukovsd_it_chat/36625)
 
 Очередь проектов на ревью (видео/текстовые) - 12.
 
@@ -48,21 +48,21 @@ tags: ["Итоги месяца"]
 
 ### Статьи
 
-- Привычки для эффективной учёбы и работы - https://t.me/zhukovsd_it_mentor/91
-- Идея «достаточности» в изучении новых технологий - https://t.me/zhukovsd_it_mentor/92
-- Частые проблемы разработчиков на новом месте работы - https://t.me/zhukovsd_it_mentor/93
-- Прозрачность как инструмент карьерного роста - https://t.me/zhukovsd_it_mentor/94
+- Привычки для эффективной учёбы и работы - https://telegram.me/zhukovsd_it_mentor/91
+- Идея «достаточности» в изучении новых технологий - https://telegram.me/zhukovsd_it_mentor/92
+- Частые проблемы разработчиков на новом месте работы - https://telegram.me/zhukovsd_it_mentor/93
+- Прозрачность как инструмент карьерного роста - https://telegram.me/zhukovsd_it_mentor/94
 
 ## Личное
 
-- Съездил в Сванети (горный регион Грузии), фотки [#1](https://t.me/zhukovsd_it_chat/33994), [#2](https://t.me/zhukovsd_it_chat/34175)
+- Съездил в Сванети (горный регион Грузии), фотки [#1](https://telegram.me/zhukovsd_it_chat/33994), [#2](https://telegram.me/zhukovsd_it_chat/34175)
 
 ## Созвон сообщества
 
 Провели первый созвон сообщества (комната в Discord + стрим на YouTube).
 
-[Запись + список вопросов](https://t.me/zhukovsd_it_chat/38266) на обсуждение.
+[Запись + список вопросов](https://telegram.me/zhukovsd_it_chat/38266) на обсуждение.
 
-Чтобы поучаствовать в следующем созвоне (дата пока не выбрана), присылайте вопросы в [чат](https://t.me/zhukovsd_it_chat).
+Чтобы поучаствовать в следующем созвоне (дата пока не выбрана), присылайте вопросы в [чат](https://telegram.me/zhukovsd_it_chat).
 
 {{< tags >}}

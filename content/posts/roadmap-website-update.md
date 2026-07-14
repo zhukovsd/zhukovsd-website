@@ -27,7 +27,7 @@ TL;DR - навигация, поиск, темная тема.
 
 ### Техническая реализация
 
-За идею и реализацию спасибо [@krios2146](https://t.me/krios2146).
+За идею и реализацию спасибо [@krios2146](https://telegram.me/krios2146).
 
 - Хостинг [GitHub Pages](https://pages.github.com/), автоматизация через GitHub Actions
 - Генератор статических сайтов [Hugo](https://gohugo.io/)

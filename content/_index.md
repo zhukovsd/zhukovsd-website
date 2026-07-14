@@ -4,7 +4,7 @@ type: 'blank'
 
 # Добро пожаловать
 
-Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов, лидер сообщества начинающих и развивающихся разработчиков.
+Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://telegram.me/zhukovsd_it_mentor) каналов, лидер сообщества начинающих и развивающихся разработчиков.
 
 ## Обо мне
 
@@ -15,7 +15,7 @@ type: 'blank'
 ## Блоги
 
 - [YouTube](https://www.youtube.com/@zhukovsd_it_mentor) - главная площадка для видеоконтента, выкладываю там [лекции](https://www.youtube.com/playlist?list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA), [подкасты](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbjLwcF9uxbjsdHuMqbvPdp), [live coding](https://www.youtube.com/playlist?list=PLOVOZrcS3XMZ-QJDHowJQ3abxNHoW8pV3) сессии, [ревью проектов](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz)
-- [Telegram](https://t.me/zhukovsd_it_chat) - статьи и новости сообщества и его активностей
+- [Telegram](https://telegram.me/zhukovsd_it_chat) - статьи и новости сообщества и его активностей
 
 ## Сообщество
 

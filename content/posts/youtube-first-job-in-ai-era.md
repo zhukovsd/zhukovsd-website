@@ -9,7 +9,7 @@ tags: ["YouTube", "Подкасты"]
 
 Провёл стрим-подкаст про учёбу, найм и работу в эпоху AI.
 
-Гость подкаста - Максим Аверин, мой старый знакомый, ex Senior Golang/Python Developer с 8-летним опытом, основатель школы [@interview_hustlers](https://t.me/interview_hustlers) и автор гайда по поиску работы за границей.
+Гость подкаста - Максим Аверин, мой старый знакомый, ex Senior Golang/Python Developer с 8-летним опытом, основатель школы [@interview_hustlers](https://telegram.me/interview_hustlers) и автор гайда по поиску работы за границей.
 
 [Смотреть на YouTube](https://www.youtube.com/watch?v=RlvEs9huuF8)  
 [Смотреть на VK Video](https://vkvideo.ru/video-234639373_456239106)

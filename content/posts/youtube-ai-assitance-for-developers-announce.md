@@ -11,7 +11,7 @@ tags: ["YouTube", "Лекции"]
 
 Заметки к стриму - https://gist.github.com/zhukovsd/d648dae84ce47fccd3c41e648577cbc2
 
-2023 стал годом массового проникновения AI в разработку. Я уже писал про то, [заменит ли](https://t.me/zhukovsd_it_mentor/31) он программистов, и пробовал [написать](https://t.me/zhukovsd_it_mentor/24) с помощью ChatGPT 3.5 несложный REST API.
+2023 стал годом массового проникновения AI в разработку. Я уже писал про то, [заменит ли](https://telegram.me/zhukovsd_it_mentor/31) он программистов, и пробовал [написать](https://telegram.me/zhukovsd_it_mentor/24) с помощью ChatGPT 3.5 несложный REST API.
 
 На стриме хочу поделиться опытом от года использования OpenAI ChatGPT 3.5/4 и GitHub Copilot.
 
