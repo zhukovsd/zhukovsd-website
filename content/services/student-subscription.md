@@ -42,6 +42,7 @@ toc: true
 - [Виселица](https://sponsr.ru/zhukovsd/142067/Rasshirennye_materialy_dlya_proekta_1__Viselica/)
 - [Симуляция](https://sponsr.ru/zhukovsd/142068/Rasshirennye_materialy_dlya_proekta_2__Simulyaciya/)
 - [Обмен валют](https://sponsr.ru/zhukovsd/142069/Rasshirennye_materialy_dlya_proekta_3__Obmen_valut/)
+- [Теннисное табло](https://sponsr.ru/zhukovsd/172713/Rasshirennye_materialy_dlya_proekta_4__Tennisnoe_tablo/)
 
 Что входит в каждую эталонную реализацию:
 - Репозиторий с разработкой проекта по шагам (каждый шаг = лекция, tag в репозитории с состоянием проекта на данный шаг)
