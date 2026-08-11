@@ -4,7 +4,7 @@ type: 'blank'
 
 # Добро пожаловать
 
-Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов, лидер сообщества начинающих и развивающихся разработчиков.
+Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) / [Golang](https://zhukovsd.github.io/golang-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов, лидер сообщества начинающих и развивающихся разработчиков.
 
 ## Обо мне
 
