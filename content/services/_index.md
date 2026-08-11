@@ -6,7 +6,7 @@ toc: true
 
 ## Чем могу быть полезен
 
-Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов.
+Меня зовут Сергей Жуков, я разработчик и автор [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) / [Golang](https://zhukovsd.github.io/golang-backend-learning-course/) роадмапов и [YouTube](https://www.youtube.com/@zhukovsd_it_mentor), [Telegram](https://t.me/zhukovsd_it_mentor) каналов.
 
 ### Менторство по трудоустройству
 
@@ -55,10 +55,14 @@ toc: true
 
 ## Учебные материалы
 
-Мои открытые учебные материалы:
+Роадмапы:
 - [Java роадмап](https://zhukovsd.github.io/java-backend-learning-course/)
 - [Python роадмап](https://zhukovsd.github.io/python-backend-learning-course/)
-- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) для Java собеседований
+- [Golang роадмап](https://zhukovsd.github.io/golang-backend-learning-course/)
+
+Методички:
+- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) с вопросами для подготовки к Java Backend собеседованиями
+- [Методичка](https://zhukovsd.github.io/python-backend-interview-prep/) с вопросами для подготовки к Python Backend собеседованиями
 
 ## Контакты
 

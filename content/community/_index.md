@@ -20,7 +20,7 @@ type: "blank"
 
 ### Учащимся - материалы
 
-- Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/)
+- Роадмап - [Java](https://zhukovsd.github.io/java-backend-learning-course/) / [Python](https://zhukovsd.github.io/python-backend-learning-course/) / [Golang](https://zhukovsd.github.io/golang-backend-learning-course/)
 - [Лекции](https://www.youtube.com/@zhukovsd_it_mentor)
 - [Главные статьи и стримы](/posts/main-articles-and-streams/)
 - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 1200+ реализаций проектов роадмапа на Java, Python, Go, Kotlin, C#, ...
