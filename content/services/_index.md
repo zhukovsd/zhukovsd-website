@@ -55,11 +55,14 @@ toc: true
 
 ## Учебные материалы
 
-Мои открытые учебные материалы:
+Роадмапы:
 - [Java роадмап](https://zhukovsd.github.io/java-backend-learning-course/)
 - [Python роадмап](https://zhukovsd.github.io/python-backend-learning-course/)
 - [Golang роадмап](https://zhukovsd.github.io/golang-backend-learning-course/)
-- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) для Java собеседований
+
+Методички:
+- [Методичка](https://zhukovsd.github.io/java-backend-interview-prep/) с вопросами для подготовки к Java Backend собеседованиями
+- [Методичка](https://zhukovsd.github.io/python-backend-interview-prep/) с вопросами для подготовки к Python Backend собеседованиями
 
 ## Контакты
 
