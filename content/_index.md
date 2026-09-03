@@ -29,11 +29,18 @@ type: 'blank'
 
 [Java роадмап](https://zhukovsd.github.io/java-backend-learning-course/) - открытый и бесплатный образовательный ресурс, который даёт понятный и воспроизводимый путь к уровню знаний технологий, необходимого для работы на позициях Junior/Middle.
 
-На февраль 2025 более 390 студентов реализовали 800 проектов, 40 из которых уже трудоустроились с моей помощью.
+На август 2026:
+- 680 студентов реализовали 1650 проектов
+- 125 трудоустроенных с моей помощью
 
 Вокруг роадмапа растет [коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) реализаций проектов и ревью, [лекций](https://www.youtube.com/playlist?list=PLOVOZrcS3XMYLy5gWPE1AbZ8UDl7XHpIA) и [активностей](/community/#учащимся---активности) для студентов.
 
 У роадмапа есть [Python](https://zhukovsd.github.io/python-backend-learning-course/) и [Go](https://zhukovsd.github.io/golang-backend-learning-course/) адаптации.
+
+### Воркшопы
+
+С 2025 года регулярно проводим воркшопы для сообщества на разные темы: ООП и проектирование, CI/CD, Kotlin, AI-инструменты и ревью проектов.
+[Записи воршопов](https://docs.google.com/spreadsheets/d/1HmF7UzEeDHdMd0zEjnXqUa0Aaa2JkK0h3NfotT41nT0/edit?gid=0#gid=0)
 
 ### Методичка
 
@@ -44,3 +51,4 @@ type: 'blank'
 - Коллекция [теоретических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/)
 - [Лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) и [задачи](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/) на подумать
 - [Вопросы](https://zhukovsd.github.io/java-backend-interview-prep/work-experience/) про опыт работы и знакомство с технологиями
+
