@@ -44,7 +44,7 @@ type: 'blank'
 
 ### Методичка
 
-Для подготовки к собеседованиям на позиции Junior и Middle мы развиваем [Java](https://zhukovsd.github.io/java-backend-interview-prep/) и [Python](https://zhukovsd.github.io/python-backend-interview-prep/) методички, написанную по коллекции наших собеседований.
+Для подготовки к собеседованиям на позиции Junior и Middle мы развиваем [Java](https://zhukovsd.github.io/java-backend-interview-prep/) и [Python](https://zhukovsd.github.io/python-backend-interview-prep/) методички, написанные по коллекциям наших собеседований.
 
 Все вопросы и задачи взяты с реальных собеседований, популярность вопросов рассчитывается в % автоматически, чтобы учить только самое актуальное.
 
