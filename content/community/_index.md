@@ -39,7 +39,7 @@ type: "blank"
 - **[$]** [Учебная подписка](/services/student-subscription/), объединяющая гарантированные ревью, эталонные реализации
 - Ревью ваших проектов
     - Присылайте проекты в чат для тестирования и ревью активными членами сообщества
-    - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 890+ ревью, [плейлист Youtube](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz), [плейлист ВК](https://vkvideo.ru/playlist/-234639373_1/season_0) избранных ревью
+    - [Коллекция](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) из 890+ ревью, плейлист  избранных ревью ([Youtube](https://www.youtube.com/playlist?list=PLOVOZrcS3XMbS4iInU-7p6TbIQW-kATfz), [ВК](https://vkvideo.ru/playlist/-234639373_1/season_0))
     - **[$]** [Гарантированные ревью](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms) менторами сообщества
 - **[$]** [Консультации](/services/consulting/) - ревью проектов, помощь с планом, сопровождение процесса через регулярные созвоны
 
