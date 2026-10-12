@@ -40,7 +40,7 @@ type: 'blank'
 ### Воркшопы
 
 С 2025 года регулярно проводим воркшопы для сообщества на разные темы: ООП и проектирование, CI/CD, Kotlin, AI-инструменты и ревью проектов.
-[Записи воршопов](https://docs.google.com/spreadsheets/d/1HmF7UzEeDHdMd0zEjnXqUa0Aaa2JkK0h3NfotT41nT0/edit?gid=0#gid=0)
+[Записи воршопов](/posts/workshop-hosting-links/)
 
 ### Методичка
 
