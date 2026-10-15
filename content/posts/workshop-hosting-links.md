@@ -9,10 +9,11 @@ tags: ["Воркшоп", "Сообщество"]
 
 Список всех воркшопов с кодовой базой
 
-Обновлено 29 июня 2026.
+Обновлено 15 октября 2026.
 
 ---
 
+- Декомпозиция в ООП стиле на примере игры "Морской бой" - [Запись](https://drive.google.com/drive/folders/1VFVG-oDZmZeliGz3MhiGAaGO7LmzVxRv) | [Код](https://github.com/vasiliy-spb/Lesson_10_For_IT_Mentor_Chat/tree/part-1)
 - Ловушка туториалов — [Запись](https://drive.google.com/drive/folders/1-RuIFzc-XRUnjJNA1fKftzDvEgpMuEuq) | [Код](https://github.com/krios2146/currency-exchange-quarkus)
 - Декомпозиция в ООП на примере игры "Морской бой" — [Запись](https://drive.google.com/drive/folders/1gVCHvNBgokr76zWn4EkqSQqLjiYqnRDR) | [Код](https://github.com/vasiliy-spb/Lesson_9_For_IT_Mentor_Chat)
 - CI/CD в коммерческой разработке — [Запись](https://drive.google.com/drive/folders/1FhiLiPBE1C5yF2MragEsTErizfdRqqpf) | [Код](https://github.com/SahaPWNZ/cicd-demo)
