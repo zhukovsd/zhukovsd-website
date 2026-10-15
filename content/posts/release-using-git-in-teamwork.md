@@ -42,3 +42,5 @@ https://github.com/zhukovsd/git-workshop-squashing-commits
 - Удаление секретного ключа из истории коммитов - https://github.com/zhukovsd/git-workshop-removing-credentials-from-history
 - Удаление секретного файла из истории коммитов https://github.com/zhukovsd/git-workshop-removing-file-from-history
 - Разбиение большого коммита на несколько маленьких https://github.com/zhukovsd/git-workshop-splitting-commit
+
+{{< youtube x7xtDNHFkuE >}}
