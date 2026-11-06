@@ -9,12 +9,13 @@ tags: ["Воркшоп", "Сообщество"]
 
 Список всех воркшопов с кодовой базой
 
-Обновлено 21 октября 2026.
+Обновлено 06 ноября 2026.
 
 ---
 
-- Декомпозиция в ООП стиле на примере игры "Морской бой" часть 2 - [Запись](https://drive.google.com/drive/folders/18Ys2NBVoB_vA6uYKqQSy-DRfxWLVfB69) | [Код](https://github.com/vasiliy-spb/Lesson_10_For_IT_Mentor_Chat/tree/part-2)
-- Декомпозиция в ООП стиле на примере игры "Морской бой" часть 1 - [Запись](https://drive.google.com/drive/folders/1VFVG-oDZmZeliGz3MhiGAaGO7LmzVxRv) | [Код](https://github.com/vasiliy-spb/Lesson_10_For_IT_Mentor_Chat/tree/part-1)
+- Декомпозиция в ООП на примере игры "Свинья" - [Запись](https://drive.google.com/drive/folders/1PyD5K6ocZpnKsRYxUoIGLSVl3zDtgxls) | [Код](https://github.com/vasiliy-spb/Lesson_11_For_IT_Mentor_Chat)
+- Декомпозиция в ООП стиле на примере игры "Морской бой" (вторая улучшенная версия) - [Запись](https://drive.google.com/drive/folders/1J15JYDo4uh1B1APFGsiMGy3jO9z6G2E4) | [Код](https://github.com/vasiliy-spb/Lesson_10_For_IT_Mentor_Chat/tree/part-2)
+- Декомпозиция в ООП стиле на примере игры "Морской бой" (первая компромисная версия) - [Запись](https://drive.google.com/drive/folders/1VFVG-oDZmZeliGz3MhiGAaGO7LmzVxRv) | [Код](https://github.com/vasiliy-spb/Lesson_10_For_IT_Mentor_Chat/tree/part-1)
 - Ловушка туториалов — [Запись](https://drive.google.com/drive/folders/1-RuIFzc-XRUnjJNA1fKftzDvEgpMuEuq) | [Код](https://github.com/krios2146/currency-exchange-quarkus)
 - Декомпозиция в ООП на примере игры "Морской бой" — [Запись](https://drive.google.com/drive/folders/1gVCHvNBgokr76zWn4EkqSQqLjiYqnRDR) | [Код](https://github.com/vasiliy-spb/Lesson_9_For_IT_Mentor_Chat)
 - CI/CD в коммерческой разработке — [Запись](https://drive.google.com/drive/folders/1FhiLiPBE1C5yF2MragEsTErizfdRqqpf) | [Код](https://github.com/SahaPWNZ/cicd-demo)
